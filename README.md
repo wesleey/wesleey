@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/wesleey/wesleey/master/images/hi.gif" height="30px"></h1>
 
-I'm [Wesley Barbosa](https://www.linkedin.com/in/wesleey/), full stack developer working with React, Next.js and Node.js.
+I'm [Wesley Barbosa](https://www.linkedin.com/in/wesley-barbosa-silva/), full stack developer working with React, Next.js and Node.js.
 <div>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/wesleey/wesleey/master/images/javascript.svg" /></a>
@@ -23,5 +23,5 @@ I'm [Wesley Barbosa](https://www.linkedin.com/in/wesleey/), full stack developer
 
 [![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)](https://www.instagram.com/wesleydeveloper/) 
 [![Twitter Badge](https://img.shields.io/badge/-@wesleydeveloper-1c9cea?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesleydeveloper/)](https://twitter.com/wesleydeveloper/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleey/)](https://www.linkedin.com/in/wesleey/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-barbosa-silva/)](https://www.linkedin.com/in/wesley-barbosa-silva/) 
 [![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)](mailto:wesley.barbosa.developer@gmail.com)
