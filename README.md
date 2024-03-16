@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/wesleey/wesleey/master/images/hi.gif" height="30px"></h1>
 
-I'm [Wesley Barbosa](https://www.linkedin.com/in/wesley-barbosa-silva/), full stack developer working with React, Next.js and Node.js.
+I'm [Wesley Barbosa](https://www.linkedin.com/in/wesley-barbosa-silva/), enthusiast of the best web development technologies.
 <div>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="JavaScript" height="25" width="25" src="https://raw.githubusercontent.com/wesleey/wesleey/master/images/javascript.svg" /></a>
