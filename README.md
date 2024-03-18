@@ -24,4 +24,5 @@ I'm [Wesley Barbosa](https://www.linkedin.com/in/wesley-barbosa-silva/), enthusi
 [![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)](https://www.instagram.com/wesleydeveloper/) 
 [![Twitter Badge](https://img.shields.io/badge/-@wesleydeveloper-1c9cea?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/wesleydeveloper/)](https://twitter.com/wesleydeveloper/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbosaw/)](https://www.linkedin.com/in/barbosaw/) 
-[![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-e34133?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)](mailto:wesley.barbosa.developer@gmail.com)
+[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)](https://gitlab.com/wesleybarbosa/) 
+[![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)](mailto:wesley.barbosa.developer@gmail.com)
