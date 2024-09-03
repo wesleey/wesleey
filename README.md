@@ -29,9 +29,13 @@ I'm [Wesley Barbosa](https://www.linkedin.com/in/wesleybarbosasilva/), enthusias
 ##
 
 [![Microsoft Learn Badge](https://img.shields.io/badge/-@wesleybarbosa-253655?style=flat-square&logo=microsoft&logoColor=white&link=https://learn.microsoft.com/en-us/users/wesleybarbosa/)](https://learn.microsoft.com/en-us/users/wesleybarbosa/)
-[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)](https://gitlab.com/wesleybarbosa/) 
-[![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)](https://www.instagram.com/wesleydeveloper/) 
-[![X Badge](https://img.shields.io/badge/-@wesleydeveloper-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/wesleydeveloper/)](https://x.com/wesleydeveloper/) 
-[![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)](https://discord.com/invite/2gu54uG9) 
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)](https://www.linkedin.com/in/wesleybarbosasilva/) 
+[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)](https://gitlab.com/wesleybarbosa/)
+[![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)](https://www.instagram.com/wesleydeveloper/)
+[![X Badge](https://img.shields.io/badge/-@wesleydeveloper-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/wesleydeveloper/)](https://x.com/wesleydeveloper/)
+[![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)](https://discord.com/invite/2gu54uG9)
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)](https://www.linkedin.com/in/wesleybarbosasilva/)
 [![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)](mailto:wesley.barbosa.developer@gmail.com)
+
+##
+
+![linux](./images/linux.png)
