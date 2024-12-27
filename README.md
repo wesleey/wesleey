@@ -8,10 +8,6 @@
 
 <div align="center">
 
-<h1>Hi <img src="./icons/hi.gif" width="30" height="30"></h1>
-
-I'm [Wesley Barbosa][Linkedin], enthusiast of the best web development technologies.
-
 <table>
 <tbody>
 
@@ -66,6 +62,8 @@ I'm [Wesley Barbosa][Linkedin], enthusiast of the best web development technolog
 
 </tbody>
 </table>
+
+####
 </td>
 
 <td valign="top">
@@ -90,6 +88,8 @@ I'm [Wesley Barbosa][Linkedin], enthusiast of the best web development technolog
 
 </tbody>
 </table>
+
+####
 </td>
 
 </tr>
@@ -106,6 +106,8 @@ I'm [Wesley Barbosa][Linkedin], enthusiast of the best web development technolog
 
 </tbody>
 </table>
+
+####
 </td>
 
 <td valign="top">
@@ -119,6 +121,8 @@ I'm [Wesley Barbosa][Linkedin], enthusiast of the best web development technolog
 
 </tbody>
 </table>
+
+####
 </td>
 
 </tr>
