@@ -71,6 +71,9 @@
 #### Certificates
 <table>
 <tbody>
+<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" src="./icons/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
+</td></tr>
+
 <tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" src="./icons/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
 </td></tr>
 
