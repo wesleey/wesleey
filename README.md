@@ -71,6 +71,9 @@
 #### Certificates
 <table>
 <tbody>
+<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" src="./icons/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
+</td></tr>
+
 <tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" src="./icons/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
 </td></tr>
 
