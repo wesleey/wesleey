@@ -1,10 +1,41 @@
-[Microsoft Learn]: https://learn.microsoft.com/en-us/users/wesleybarbosa/
-[GitLab]: https://gitlab.com/wesleybarbosa/
-[Instagram]: https://www.instagram.com/wesleydeveloper/
-[X]: https://x.com/wesleydeveloper/
+<!--- technologies -->
+[.NET]: https://dot.net/
+[Arch Linux]: https://archlinux.org/
+[C]: https://learn.microsoft.com/en/cpp/c-language/
+[CSharp]: https://learn.microsoft.com/en/dotnet/csharp/
+[CSS3]: https://css3.com/
+[DBeaver]: https://dbeaver.io/
+[Docker]: https://www.docker.com/
+[HTML5]: https://html.com/html5/
+[Java]: https://www.oracle.com/java/
+[JavaScript]: https://www.javascript.com/
+[Jest]: https://jestjs.io/
+[Linux]: https://github.com/torvalds/linux
+[MongoDB]: https://www.mongodb.com/
+[MUI]: https://mui.com/
+[MySQL]: https://www.mysql.com/
+[Next]: https://nextjs.org/
+[Node]: https://nodejs.org/
+[PostgreSQL]: https://www.postgresql.org/
+[Postman]: https://www.postman.com/
+[Python]: https://www.python.org/
+[React]: https://pt-br.reactjs.org/
+[Spring Boot]: https://spring.io/
+[SQL Server]: https://www.microsoft.com/en/sql-server/
+[TailwindCSS]: http://tailwindcss.com/
+[TypeScript]: https://www.typescriptlang.org/
+[Vite]: https://vitejs.dev/
+[VSCode]: https://code.visualstudio.com/
+[Windows]: https://www.microsoft.com/pt-br/software-download/windows11
+
+<!-- social media --->
 [Discord]: https://discord.com/invite/2gu54uG9
-[Linkedin]: https://www.linkedin.com/in/wesleybarbosasilva/
+[GitLab]: https://gitlab.com/wesleybarbosa/
 [Gmail]: mailto:wesley.barbosa.developer@gmail.com
+[Instagram]: https://www.instagram.com/wesleydeveloper/
+[Linkedin]: https://www.linkedin.com/in/wesleybarbosasilva/
+[Microsoft Learn]: https://learn.microsoft.com/en-us/users/wesleybarbosa/
+[X]: https://x.com/wesleydeveloper/
 
 <div align="center">
 
@@ -14,50 +45,58 @@
 <tr>
 <td valign="top">
 
-#### Technologies
+<h4>
+<img src="./icons/sensors.svg" width="20" height="20" alt="" valign="bottom">
+Technologies
+</h4>
 <table>
 <tbody>
 <tr><td>
-<a href="https://learn.microsoft.com/en/cpp/c-language/" target="_blank" rel="noreferrer noopener"><img align="center" alt="C" width="26" height="26" src="./icons/c.svg" /></a>
-<a href="https://learn.microsoft.com/en/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img align="center" alt="C#" width="26" height="26" src="./icons/csharp.svg" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Java" width="30" height="30" src="./icons/java.svg" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Python" width="30" height="30" src="./icons/python.svg" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="JavaScript" width="25" height="25" src="./icons/javascript.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="TypeScript" width="25" height="25" src="./icons/typescript.svg" /></a>
+
+[<img align="center" alt="C" width="26" height="26" src="./icons/c.svg" />][C]
+[<img align="center" alt="C#" width="26" height="26" src="./icons/csharp.svg" />][CSharp]
+[<img align="center" alt="Java" width="30" height="30" src="./icons/java.svg" />][Java]
+[<img align="center" alt="Python" width="30" height="30" src="./icons/python.svg" />][Python]
+[<img align="center" alt="JavaScript" width="25" height="25" src="./icons/javascript.svg" />][JavaScript]
+[<img align="center" alt="TypeScript" width="25" height="25" src="./icons/typescript.svg" />][TypeScript]
 </td></tr>
 
 <tr><td>
-<a href="https://dot.net/" target="_blank" rel="noreferrer noopener"><img align="center" alt=".NET" width="25" height="25" src="./icons/dotnetcore.svg" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Spring" width="25" height="25" src="./icons/spring.svg" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NodeJS" width="25" height="25" src="./icons/node.svg" /></a>
-<a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="ReactJS" width="25" height="25" src="./icons/react.svg" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Vite" width="25" height="25" src="./icons/vite.svg" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NextJS" width="25" height="25" src="./icons/nextjs.svg" /></a>
-<a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img align="center" alt="HTML5" width="25" height="25" src="./icons/html5.svg" /></a>
-<a href="https://css3.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="CSS3" width="25" height="25" src="./icons/css3.svg" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="MUI" width="25" height="25" src="./icons/mui.svg" /></a>
-<a href="http://tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="TailwindCSS" width="25" height="25" src="./icons/tailwindcss.svg" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Jest" width="25" height="25" src="./icons/jest.svg" /></a>
+
+[<img align="center" alt=".NET" width="25" height="25" src="./icons/dotnetcore.svg" />][.NET]
+[<img align="center" alt="Spring" width="25" height="25" src="./icons/spring.svg" />][Spring Boot]
+[<img align="center" alt="NodeJS" width="25" height="25" src="./icons/node.svg" />][Node]
+[<img align="center" alt="ReactJS" width="25" height="25" src="./icons/react.svg" />][React]
+[<img align="center" alt="Vite" width="25" height="25" src="./icons/vite.svg" />][Vite]
+[<img align="center" alt="NextJS" width="25" height="25" src="./icons/nextjs.svg" />][Next]
+[<img align="center" alt="HTML5" width="25" height="25" src="./icons/html5.svg" />][HTML5]
+[<img align="center" alt="CSS3" width="25" height="25" src="./icons/css3.svg" />][CSS3]
+[<img align="center" alt="MUI" width="25" height="25" src="./icons/mui.svg" />][MUI]
+[<img align="center" alt="TailwindCSS" width="25" height="25" src="./icons/tailwindcss.svg" />][TailwindCSS]
+[<img align="center" alt="Jest" width="25" height="25" src="./icons/jest.svg" />][Jest]
 </td></tr>
 
 <tr><td>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="MongoDB" width="25" height="25" src="./icons/mongodb.svg" /></a>
-<a href="https://www.microsoft.com/en/sql-server/" target="_blank" rel="noreferrer noopener"><img align="center" alt="SQL Server" width="25" height="25" src="./icons/microsoftsqlserver.svg" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="PostgreSQL" width="25" height="25" src="./icons/postgresql.svg" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="MySQL" width="45" height="45" src="./icons/mysql.svg" /></a>
+
+[<img align="center" alt="MongoDB" width="25" height="25" src="./icons/mongodb.svg" />][MongoDB]
+[<img align="center" alt="SQL Server" width="25" height="25" src="./icons/microsoftsqlserver.svg" />][SQL Server]
+[<img align="center" alt="PostgreSQL" width="25" height="25" src="./icons/postgresql.svg" />][PostgreSQL]
+[<img align="center" alt="MySQL" width="45" height="45" src="./icons/mysql.svg" />][MySQL]
 </td></tr>
 
 <tr><td>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Visual Studio Code" width="25" height="25" src="./icons/vscode.svg" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Postman" width="25" height="25" src="./icons/postman.svg" /></a>
-<a href="https://dbeaver.io/" target="_blank" rel="noreferrer noopener"><img align="center" alt="DBeaver" width="25" height="25" src="./icons/dbeaver.svg" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Docker" width="35" height="35" src="./icons/docker.svg" /></a>
+
+[<img align="center" alt="Visual Studio Code" width="25" height="25" src="./icons/vscode.svg" />][VSCode]
+[<img align="center" alt="Postman" width="25" height="25" src="./icons/postman.svg" />][Postman]
+[<img align="center" alt="DBeaver" width="25" height="25" src="./icons/dbeaver.svg" />][DBeaver]
+[<img align="center" alt="Docker" width="35" height="35" src="./icons/docker.svg" />][Docker]
 </td></tr>
 
 <tr><td>
-<a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank" rel="noreferrer noopener"><img align="center" alt="Windows 11" width="25" height="25" src="./icons/windows11.svg" /></a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Arch Linux" width="25" height="25" src="./icons/archlinux.svg" /></a>
-<a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer noopener"><img align="center" alt="Linux" width="25" height="25" src="./icons/linux.svg" /></a>
+
+[<img align="center" alt="Windows 11" width="25" height="25" src="./icons/windows11.svg" />][Windows]
+[<img align="center" alt="Arch Linux" width="25" height="25" src="./icons/archlinux.svg" />][Arch Linux]
+[<img align="center" alt="Linux" width="25" height="25" src="./icons/linux.svg" />][Linux]
 </td></tr>
 
 </tbody>
@@ -68,7 +107,10 @@
 
 <td valign="top">
 
-#### Certificates
+<h4>
+<img src="./icons/military-tech.svg" width="20" height="20" alt="" valign="bottom">
+Certificates
+</h4>
 <table>
 <tbody>
 <tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" src="./icons/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
@@ -103,7 +145,10 @@
 <tr>
 <td valign="top">
 
-#### Most Used Languages
+<h4>
+<img src="./icons/trending.svg" width="20" height="20" alt="" valign="bottom">
+Most Used Languages
+</h4>
 <table align="center">
 <tbody>
 <tr><td>
@@ -118,7 +163,10 @@
 
 <td valign="top">
 
-#### Statistics
+<h4>
+<img src="./icons/commit.svg" width="20" height="20" alt="" valign="bottom">
+Statistics
+</h4>
 <table align="center">
 <tbody>
 <tr><td>
@@ -135,7 +183,7 @@
 
 </table>
 
-##
+<img src="./icons/rgb.webp" width="100%" height="15" alt="">
 
 [![Microsoft Learn Badge](https://img.shields.io/badge/-@wesleybarbosa-253655?style=flat-square&logo=microsoft&logoColor=white&link=https://learn.microsoft.com/en-us/users/wesleybarbosa/)][Microsoft Learn]
 [![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)][GitLab]
