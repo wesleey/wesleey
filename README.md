@@ -108,7 +108,7 @@ Technologies
 <td valign="top">
 
 <h4>
-<img src="./icons/military-tech.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./icons/done.svg" width="20" height="20" alt="" valign="bottom">
 Certificates
 </h4>
 <table>
