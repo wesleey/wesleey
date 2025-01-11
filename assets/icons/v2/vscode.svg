@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+        filter: url(#drop-shadow-2);
+        font-family: JetBrainsMono-Bold, 'JetBrains Mono';
+        font-size: 7px;
+        font-weight: 700;
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #007acc;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #0065a9;
+      }
+
+      .cls-4 {
+        fill: #212529;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-5 {
+        fill: #1f9cf0;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-4" x="15" y="15" width="64" height="64" rx="5" ry="5"/>
+  <g>
+    <path class="cls-3" d="M60.01,25.03l-5.77-2.78c-.67-.32-1.47-.19-1.99.34l-18.88,17.21c-.48.43-.51,1.17-.08,1.65.02.03.05.05.08.08l1.54,1.4c.42.38,1.04.41,1.49.07l22.73-17.24c.51-.39,1.24-.29,1.62.22.15.2.24.45.24.7v-.07c0-.67-.38-1.28-.99-1.58Z"/>
+    <path class="cls-2" d="M60.01,46.97l-5.77,2.78c-.67.32-1.46.19-1.99-.34l-18.88-17.21c-.48-.43-.51-1.17-.08-1.65.02-.03.05-.05.08-.08l1.54-1.4c.42-.38,1.04-.41,1.49-.07l22.73,17.24c.51.39,1.24.29,1.62-.22.15-.2.24-.45.24-.7v.07c0,.67-.39,1.28-.99,1.57Z"/>
+    <path class="cls-5" d="M54.24,49.75c-.67.32-1.47.19-1.99-.34.4.4,1.05.4,1.45,0,.19-.19.3-.45.3-.72v-25.37c0-.57-.46-1.02-1.03-1.02-.27,0-.53.11-.72.3.52-.52,1.32-.66,1.99-.34l5.76,2.77c.61.29.99.9,1,1.58v18.8c0,.67-.38,1.29-.99,1.58l-5.76,2.77h0Z"/>
+  </g>
+  <text class="cls-1" transform="translate(34.82 68.87) scale(.96 1)"><tspan x="0" y="0">VSCode</tspan></text>
+</svg>

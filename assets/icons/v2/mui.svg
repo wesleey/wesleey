@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+        filter: url(#drop-shadow-2);
+        font-family: JetBrainsMono-Bold, 'JetBrains Mono';
+        font-size: 7px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #212529;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #1fa6ca;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-2" x="15" y="15" width="64" height="64" rx="5" ry="5"/>
+  <g>
+    <path class="cls-3" d="M31,37.98v-13.83l11.98,6.92v4.61l-7.99-4.61v9.22l-3.98-2.31ZM42.98,31.06l12-6.92v13.86l-7.99,4.59-4.01-2.31,8.02-4.61v-4.61l-8.02,4.61v-4.61Z"/>
+    <path class="cls-3" d="M42.98,40.28v4.61l8.02,4.61v-4.61l-8.02-4.61ZM51,49.5l11.98-6.92v-9.22l-4.01,2.31v4.61l-7.97,4.61v4.61ZM58.99,31.06v-4.61l4.01-2.31v4.61l-4.01,2.31Z"/>
+  </g>
+  <text class="cls-1" transform="translate(24.89 68.87) scale(.96 1)"><tspan x="0" y="0">Material UI</tspan></text>
+</svg>

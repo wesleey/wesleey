@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1793d1;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #e5e5e5;
+        filter: url(#drop-shadow-2);
+        font-family: JetBrainsMono-Bold, 'JetBrains Mono';
+        font-size: 7px;
+        font-weight: 700;
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #212529;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-2" x="15" y="15" width="64" height="64" rx="5" ry="5"/>
+  <path class="cls-1" d="M46.94,25.1c-.97,2.39-1.56,3.95-2.65,6.27.66.7,1.48,1.52,2.81,2.45-1.42-.59-2.4-1.17-3.12-1.78-1.39,2.9-3.56,7.02-7.97,14.94,3.47-2,6.15-3.24,8.66-3.71-.11-.46-.16-.96-.16-1.48v-.11c.06-2.22,1.21-3.93,2.58-3.81,1.37.12,2.43,2.01,2.38,4.23-.01.42-.06.82-.14,1.19,2.48.48,5.14,1.71,8.56,3.69-.67-1.24-1.28-2.36-1.85-3.43-.91-.7-1.85-1.61-3.78-2.6,1.32.34,2.27.74,3.01,1.19-5.84-10.88-6.32-12.33-8.32-17.03Z"/>
+  <text class="cls-3" transform="translate(26.69 68.94) scale(.96 1)"><tspan x="0" y="0">Arch Linux</tspan></text>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+        filter: url(#drop-shadow-2);
+        font-family: JetBrainsMono-Bold, 'JetBrains Mono';
+        font-size: 7px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_6);
+      }
+
+      .cls-4 {
+        fill: #212529;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_6-2);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" x1="426.39" y1="-499.31" x2="435.27" y2="-510.31" gradientTransform="translate(-255.64 -312.09) scale(.71 -.71)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_6-2" data-name="Gradiente sem nome 6" x1="433.37" y1="-480.5" x2="433.32" y2="-493.72" xlink:href="#Gradiente_sem_nome_6"/>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="5"/>
+      <feFlood flood-color="#212529" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-4" x="15" y="15" width="64" height="64" rx="5" ry="5"/>
+  <g>
+    <circle class="cls-2" cx="47" cy="36" r="16"/>
+    <path class="cls-3" d="M57.58,48l-14.29-18.4h-2.69v12.79h2.15v-10.06l13.14,16.97c.59-.4,1.16-.83,1.69-1.3Z"/>
+    <path class="cls-5" d="M51.44,29.6h2.13v12.8h-2.13v-12.8Z"/>
+  </g>
+  <text class="cls-1" transform="translate(32.3 68.87)"><tspan x="0" y="0">Next.js</tspan></text>
+</svg>

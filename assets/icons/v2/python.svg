@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 94 94" style="enable-background:new 0 0 94 94;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#212529;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000093160545926902617110000008190001036584343216_);}
+	.st3{fill:#E5E5E5;}
+	.st4{font-family:'JetBrainsMono-Bold';}
+	.st5{font-size:7px;}
+</style>
+<path class="st0" d="M20,15h54c2.8,0,5,2.2,5,5v54c0,2.8-2.2,5-5,5H20c-2.8,0-5-2.2-5-5V20C15,17.2,17.2,15,20,15z"/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1279.3467" y1="196.9529" x2="1310.3849" y2="170.2478" gradientTransform="matrix(0.56 0 0 -0.56 -685.1 131.98)">
+		<stop  offset="0" style="stop-color:#5A9FD4"/>
+		<stop  offset="1" style="stop-color:#306998"/>
+	</linearGradient>
+	<path class="st1" d="M46.8,19.9c-1.3,0-2.6,0.1-3.6,0.3c-3.2,0.6-3.8,1.8-3.8,4V27H47v1H36.5c-2.2,0-4.2,1.3-4.8,3.9
+		c-0.7,2.9-0.7,4.7,0,7.8c0.5,2.3,1.8,3.9,4.1,3.9h2.6V40c0-2.5,2.2-4.7,4.8-4.7h7.6c2.1,0,3.8-1.8,3.8-3.9v-7.3
+		c0-2.1-1.8-3.6-3.8-4C49.5,20,48.1,19.9,46.8,19.9z M42.7,22.2c0.8,0,1.4,0.7,1.4,1.5c0,0.8-0.6,1.5-1.4,1.5s-1.4-0.6-1.4-1.5
+		C41.2,22.9,41.9,22.2,42.7,22.2z"/>
+	
+		<linearGradient id="SVGID_00000136369953399817724350000007400434319450287790_" gradientUnits="userSpaceOnUse" x1="1322.9697" y1="152.2997" x2="1311.8892" y2="167.9875" gradientTransform="matrix(0.56 0 0 -0.56 -685.1 131.98)">
+		<stop  offset="0" style="stop-color:#FFD43B"/>
+		<stop  offset="1" style="stop-color:#FFE873"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000136369953399817724350000007400434319450287790_);" d="M55.6,28v3.4c0,2.6-2.2,4.8-4.8,4.8h-7.6
+		c-2.1,0-3.8,1.8-3.8,3.9v7.3c0,2.1,1.8,3.3,3.8,3.9c2.4,0.7,4.7,0.8,7.6,0c1.9-0.6,3.8-1.7,3.8-3.9v-2.9H47v-1h11.4
+		c2.2,0,3-1.5,3.8-3.9c0.8-2.4,0.8-4.7,0-7.8c-0.5-2.2-1.6-3.9-3.8-3.9C58.4,28,55.6,28,55.6,28z M51.3,46.4c0.8,0,1.4,0.6,1.4,1.5
+		c0,0.8-0.6,1.5-1.4,1.5s-1.4-0.7-1.4-1.5C49.8,47.1,50.5,46.4,51.3,46.4z"/>
+</g>
+<text transform="matrix(1 0 0 1 34.4 68.87)" class="st3 st4 st5">Python</text>
+</svg>
