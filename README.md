@@ -40,7 +40,7 @@
 
 ```bash
 [root@archlinux wesley]# date
-Sun 09 Mar 2025 00:16:26 -0300
+Mon 10 Mar 2025 00:17:39 -0300
 ```
 
 <img src="./assets/gifs/rgb.webp" width="100%" height="15" alt="">
