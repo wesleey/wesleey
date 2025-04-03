@@ -1,4 +1,4 @@
-<!--- technologies -->
+<!--- TECHNOLOGIES -->
 [.NET]: https://dot.net/
 [Arch Linux]: https://archlinux.org/
 [C]: https://learn.microsoft.com/en/cpp/c-language/
@@ -28,7 +28,7 @@
 [VSCode]: https://code.visualstudio.com/
 [Windows]: https://www.microsoft.com/pt-br/software-download/windows11
 
-<!-- social media --->
+<!-- SOCIAL MEDIA --->
 [Discord]: https://discord.com/invite/2gu54uG9
 [GitLab]: https://gitlab.com/wesleybarbosa/
 [Gmail]: mailto:wesley.barbosa.developer@gmail.com
@@ -37,26 +37,37 @@
 [Microsoft Learn]: https://learn.microsoft.com/en-us/users/wesleybarbosa/
 [X]: https://x.com/wesleydeveloper/
 
-
-```bash
-[root@archlinux wesley]# date
-Wed 02 Apr 2025 00:33:39 -0300
-```
-
-<img src="./assets/gifs/rgb.webp" width="100%" height="15" alt="">
+<!-- CONTRIBUTIONS -->
+[PicPay]: https://picpay.me/wesley3g
+[PIX]: https://raw.githubusercontent.com/wesleey/wesleey/main/pix
 
 <div align="center">
 
+[![GitHub Followers](https://img.shields.io/github/followers/wesleey?style=flat-square)](https://github.com/wesleey?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/wesleey?affiliations=OWNER&style=flat-square)](https://github.com/wesleey?tab=stars)
+[![Public Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/wesleey&style=flat-square)](https://github.com/wesleey?tab=repositories)
+[![Public Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=gists&query=public_gists&url=https://api.github.com/users/wesleey&style=flat-square)](https://gist.github.com/wesleey)
+[![Last Profile Update](https://img.shields.io/github/last-commit/wesleey/wesleey?style=flat-square)](https://github.com/wesleey)
+</div>
+
+```bash
+[root@linux github]# date
+Wed 02 Apr 2025 23:31:50 -0300
+```
+<img src="./assets/gifs/rgb.webp" width="100%" height="15" alt="" align="center">
+
+<div align="center">
+<!-- TABLE 1 -->
 <table>
 <tbody>
 
+<!-- ROW 1 -->
 <tr>
 <td valign="top">
-
-<h4 align="left">
-<img src="./assets/icons/v1/sensors.svg" width="20" height="20" alt="" valign="bottom">
+<h5 align="left">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
 Technologies
-</h4>
+</h5>
 <table>
 <tbody>
 <tr><td>
@@ -106,19 +117,15 @@ Technologies
 [<img align="center" alt="Arch Linux" width="60" height="60" src="./assets/icons/v2/archlinux.svg" />][Arch Linux]
 [<img align="center" alt="Linux" width="60" height="60" src="./assets/icons/v2/linux.svg" />][Linux]
 </td></tr>
-
 </tbody>
 </table>
-
-####
 </td>
 
 <td valign="top">
-
-<h4 align="left">
-<img src="./assets/icons/v1/done.svg" width="20" height="20" alt="" valign="bottom">
+<h5 align="left">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
 Certificates
-</h4>
+</h5>
 <table>
 <tbody align="left">
 <tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" src="./assets/icons/v1/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
@@ -144,53 +151,66 @@ Certificates
 
 <tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
 </td></tr>
-
 </tbody>
 </table>
-
-####
 </td>
-
 </tr>
+<!-- ROW 1 -->
 
+<!-- ROW 2 -->
 <tr>
 <td valign="top">
-
-<h4 align="left">
-<img src="./assets/icons/v1/trending.svg" width="20" height="20" alt="" valign="bottom">
+<h5 align="left">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
 Most Used Languages
-</h4>
+</h5>
 <table align="center">
 <tbody>
 <tr>
 <div align="center"><img width="245em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleey&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true"></div>
 </tr>
-
 </tbody>
 </table>
-
 </td>
 
 <td valign="top">
-
-<h4 align="left">
-<img src="./assets/icons/v1/commit.svg" width="20" height="20" alt="" valign="bottom">
+<h5 align="left">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
 Statistics
-</h4>
+</h5>
 <table align="center">
 <tbody>
 <tr>
 <div align="center"><img width="320em" src="https://github-readme-stats.vercel.app/api?username=wesleey&show_icons=true&card_width=320&theme=transparent&hide_border=true"></div>
 </tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 2 -->
+
+<!-- ROW 3 -->
+<tr>
+<td colspan="2">
+<h5 align="left">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+QR Codes
+</h5>
+<table>
+<tbody><tr>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/picpay.svg" width="18" height="18" alt="" valign="center"> PicPay</h5><img src="./assets/svgs/picpay-QR.svg" width="80" alt=""></td>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/pix.svg" width="13" height="13" alt="" valign="center"> PIX</h5><img src="./assets/svgs/pix-QR.svg" width="80" alt=""></td>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/github.svg" width="18" height="18" alt="" valign="center"> GitHub</h5><img src="./assets/svgs/github-QR.svg" width="80" alt=""></td>
+</tr></tbody>
+</table>
+</br>
+</td>
+</tr>
+<!-- ROW 3 -->
 
 </tbody>
 </table>
-
-</td>
-
-</tr>
-
-</table>
+<!-- TABLE 1 -->
 
 [![Microsoft Learn Badge](https://img.shields.io/badge/-@wesleybarbosa-253655?style=flat-square&logo=microsoft&logoColor=white&link=https://learn.microsoft.com/en-us/users/wesleybarbosa/)][Microsoft Learn]
 [![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)][GitLab]
@@ -199,5 +219,8 @@ Statistics
 [![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)][Discord]
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)][Linkedin]
 [![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)][Gmail]
+[![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=PicPay)][PicPay]
+[![PIX Badge](https://img.shields.io/badge/support-Wesley%20Barbosa-22262a?logo=pix&style=flat-square&label=PIX)][PIX]
+<div>
 
-</div>
+<p>Buy me a coffee ☕</p>
