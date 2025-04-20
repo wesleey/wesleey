@@ -52,7 +52,7 @@
 
 ```bash
 [root@linux github]# date
-Sat 19 Apr 2025 00:29:12 -0300
+Sun 20 Apr 2025 00:36:56 -0300
 ```
 <img src="./assets/gifs/rgb.webp" width="100%" height="15" alt="" align="center">
 
