@@ -54,7 +54,7 @@
 [root@linux github]# date
 Sun 06 Jul 2025 00:54:28 -0300
 ```
-<img src="./assets/gifs/rgb.webp" width="100%" height="15" alt="" align="center">
+<img src="./assets/gifs/rgb.webp" width="100%" height="15" style="max-width:100%;height:15px;" alt="" align="center">
 
 <div align="center">
 <!-- TABLE 1 -->
@@ -65,7 +65,7 @@ Sun 06 Jul 2025 00:54:28 -0300
 <tr>
 <td valign="top">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 Technologies
 </h5>
 <table>
@@ -128,28 +128,28 @@ Certificates
 </h5>
 <table>
 <tbody align="left">
-<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" src="./assets/icons/v1/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
+<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
 </td></tr>
 
-<tr><td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Oracle" width="25" height="25" src="./assets/icons/v1/oracle.svg" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353" target="_blank" rel="noreferrer noopener">Cloud Infrastructure 2024 Certified Foundations Associate</a>
+<tr><td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Oracle" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/oracle.svg" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353" target="_blank" rel="noreferrer noopener">Cloud Infrastructure 2024 Certified Foundations Associate</a>
 </td></tr>
 
-<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" src="./assets/icons/v1/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
+<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
 </td></tr>
 
-<tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" src="./assets/icons/v1/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
+<tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
 </td></tr>
 
-<tr><td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Google Cloud" width="20" height="20" src="./assets/icons/v1/google-cloud.svg" /> </a> <a href="https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noreferrer noopener">Google Cloud: Introduction to Generative AI</a>
+<tr><td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Google Cloud" width="20" height="20" style="width:20px;height:20px;" src="./assets/icons/v1/google-cloud.svg" /> </a> <a href="https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noreferrer noopener">Google Cloud: Introduction to Generative AI</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7" target="_blank" rel="noreferrer noopener">CS50AI: Introduction to Artificial Intelligence with Python</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7" target="_blank" rel="noreferrer noopener">CS50AI: Introduction to Artificial Intelligence with Python</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8" target="_blank" rel="noreferrer noopener">CS50P: Introduction to Programming with Python</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8" target="_blank" rel="noreferrer noopener">CS50P: Introduction to Programming with Python</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
 </td></tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ Certificates
 <tr>
 <td valign="top">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 Most Used Languages
 </h5>
 <table align="center">
@@ -175,7 +175,7 @@ Most Used Languages
 
 <td valign="top">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 Statistics
 </h5>
 <table align="center">
@@ -193,14 +193,14 @@ Statistics
 <tr>
 <td colspan="2">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 QR Codes
 </h5>
 <table>
 <tbody><tr>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/picpay.svg" width="18" height="18" alt="" valign="center"> PicPay</h5><img src="./assets/svgs/picpay-QR.svg" width="80" alt=""></td>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/pix.svg" width="13" height="13" alt="" valign="center"> PIX</h5><img src="./assets/svgs/pix-QR.svg" width="80" alt=""></td>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/github.svg" width="18" height="18" alt="" valign="center"> GitHub</h5><img src="./assets/svgs/github-QR.svg" width="80" alt=""></td>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/picpay.svg" width="18" height="18" style="width:18px;height:18px;" alt="" valign="center"> PicPay</h5><img src="./assets/svgs/picpay-QR.svg" width="80" alt=""></td>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/pix.svg" width="13" height="13" style="width:18px;height:18px;" alt="" valign="center"> PIX</h5><img src="./assets/svgs/pix-QR.svg" width="80" alt=""></td>
+<td align="center"><h5 align="center"><img src="./assets/icons/v1/github.svg" width="18" height="18" style="width:18px;height:18px;" alt="" valign="center"> GitHub</h5><img src="./assets/svgs/github-QR.svg" width="80" alt=""></td>
 </tr></tbody>
 </table>
 </br>
