@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+  <style>
+    @font-face {
+    src: local('Consolas'), local('Consolas Bold');
+    font-family: 'ConsolasFallback';
+    font-display: swap;
+    -webkit-size-adjust: 109%;
+    size-adjust: 109%;
+    }
+  </style>
+
+  <rect width="200" height="200" rx="20" ry="20" fill="#f6f8fa" />
+
+  <!-- logo -->
+  <g transform="translate(48.5, 30) scale(0.8)">
+    <path d="M75.916 54.2 122.542 0h-11.05L71.008 47.06 38.672 0H1.376l48.898 71.164L1.376 128h11.05L55.18 78.303 89.328 128h37.296L75.913 54.2ZM60.782 71.79l-4.955-7.086-39.42-56.386h16.972L65.19 53.824l4.954 7.086 41.353 59.15h-16.97L60.782 71.793Z" fill="#000" style="stroke-width:.104373"/>
+  </g>
+  <!-- logo -->
+
+  <text x="100" y="165" text-anchor="middle" fill="#1f2328">
+    X
+  </text>
+</svg>

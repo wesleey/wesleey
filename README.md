@@ -28,6 +28,17 @@
 [VSCode]: https://code.visualstudio.com/
 [Windows]: https://www.microsoft.com/pt-br/software-download/windows11
 
+<!-- CERTIFICATES -->
+[GitHub Foundations]: https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile
+[Oracle 2024]: https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353
+[IBM Docker]: https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile
+[NVIDIA Deep Learning]: https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ
+[Google Cloud Generative AI]: https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
+[CS50AI]: https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7
+[CS50P]: https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8
+[CS50x]: https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a
+
+
 <!-- SOCIAL MEDIA --->
 [Discord]: https://discord.com/invite/2gu54uG9
 [GitLab]: https://gitlab.com/wesleybarbosa/
@@ -115,33 +126,44 @@ Technologies
 
 <td valign="top">
 <h5 align="left">
-<img src="./assets/svgs/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 Certificates
 </h5>
 <table>
-<tbody align="left">
-<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
+<tbody>
+<tr><td>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/github-dark.svg"><img align="center" alt="GitHub" width="45" height="45" src="./certificates/github-light.svg"/></picture>][GitHub Foundations]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/ibm-dark.svg"><img align="center" alt="IBM" width="45" height="45" src="./certificates/ibm-light.svg"/></picture>][IBM Docker]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/nvidia-dark.svg"><img align="center" alt="NVIDIA" width="45" height="45" src="./certificates/nvidia-light.svg"/></picture>][NVIDIA Deep Learning]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50x]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50P]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50AI]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/oracle-dark.svg"><img align="center" alt="Oracle" width="45" height="45" src="./certificates/oracle-light.svg"/></picture>][Oracle 2024]
 </td></tr>
 
-<tr><td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Oracle" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/oracle.svg" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353" target="_blank" rel="noreferrer noopener">Cloud Infrastructure 2024 Certified Foundations Associate</a>
-</td></tr>
+<tr><td>
 
-<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/google-cloud-dark.svg"><img align="center" alt="Google Cloud" width="45" height="45" src="./certificates/google-cloud-light.svg"/></picture>][Google Cloud Generative AI]
 </td></tr>
+</tbody>
+</table>
 
-<tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
-</td></tr>
+<h5 align="left">
+<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
+Social media
+</h5>
+<table>
+<tbody>
+<tr><td>
 
-<tr><td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Google Cloud" width="20" height="20" style="width:20px;height:20px;" src="./assets/svgs/google-cloud.svg" /> </a> <a href="https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noreferrer noopener">Google Cloud: Introduction to Generative AI</a>
-</td></tr>
-
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7" target="_blank" rel="noreferrer noopener">CS50AI: Introduction to Artificial Intelligence with Python</a>
-</td></tr>
-
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8" target="_blank" rel="noreferrer noopener">CS50P: Introduction to Programming with Python</a>
-</td></tr>
-
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gmail-dark.svg"><img align="center" alt="Gmail" width="45" height="45" src="./contacts/gmail-light.svg"/></picture>][Gmail]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/linkedin-dark.svg"><img align="center" alt="LinkedIn" width="45" height="45" src="./contacts/linkedin-light.svg"/></picture>][LinkedIn]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/microsoft-learn-dark.svg"><img align="center" alt="Microsoft Learn" width="45" height="45" src="./contacts/microsoft-learn-light.svg"/></picture>][Microsoft Learn]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gitlab-dark.svg"><img align="center" alt="GitLab" width="45" height="45" src="./contacts/gitlab-light.svg"/></picture>][GitLab]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/instagram-dark.svg"><img align="center" alt="Instagram" width="45" height="45" src="./contacts/instagram-light.svg"/></picture>][Instagram]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/x-dark.svg"><img align="center" alt="X" width="45" height="45" src="./contacts/x-light.svg"/></picture>][X]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/discord-dark.svg"><img align="center" alt="Discord" width="45" height="45" src="./contacts/discord-light.svg"/></picture>][Discord]
 </td></tr>
 </tbody>
 </table>
@@ -177,15 +199,8 @@ Certificates
 </table>
 <!-- TABLE 1 -->
 
-[![Microsoft Learn Badge](https://img.shields.io/badge/-@wesleybarbosa-253655?style=flat-square&logo=microsoft&logoColor=white&link=https://learn.microsoft.com/en-us/users/wesleybarbosa/)][Microsoft Learn]
-[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)][GitLab]
-[![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)][Instagram]
-[![X Badge](https://img.shields.io/badge/-@wesleydeveloper-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/wesleydeveloper/)][X]
-[![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)][Discord]
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)][Linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)][Gmail]
 [![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=picpay)][PicPay]
 ![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix)
 <div>
 
-<b>Buy me a coffee ☕</b>
+<b>Buy me a coffee.</b> ☕

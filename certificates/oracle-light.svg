@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+  <style>
+    @font-face {
+    src: local('Consolas'), local('Consolas Bold');
+    font-family: 'ConsolasFallback';
+    font-display: swap;
+    -webkit-size-adjust: 109%;
+    size-adjust: 109%;
+    }
+  </style>
+
+  <rect width="200" height="200" rx="20" ry="20" fill="#f6f8fa" />
+
+  <!-- logo -->
+  <g transform="translate(50, 50) scale(1)">
+    <metadata><sfw xmlns="ns_sfw;"><slices></slices><sliceSourceBounds bottomLeftOrigin="true" height="59.4" width="93.9" x="-30.4" y="-230.4"></sliceSourceBounds></sfw></metadata><path fill="#C74634" d="M30.5,59.4H65c16.4-0.4,29.3-14.1,28.9-30.4C93.5,13.1,80.7,0.4,65,0H30.5C14.1-0.4,0.4,12.5,0,28.9 s12.5,30,28.9,30.4C29.4,59.4,29.9,59.4,30.5,59.4 M64.2,48.9h-33c-10.6-0.3-18.9-9.2-18.6-19.8C13,19,21.1,10.8,31.2,10.5h33 c10.6-0.3,19.5,8,19.8,18.6c0.3,10.6-8,19.5-18.6,19.8C65,48.9,64.6,48.9,64.2,48.9"></path>
+  </g>
+  <!-- logo -->
+
+  <text x="100" y="165" text-anchor="middle" fill="#1f2328">
+    Oracle
+  </text>
+</svg>
