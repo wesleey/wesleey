@@ -61,8 +61,6 @@
 [![Last Profile Update](https://img.shields.io/github/last-commit/wesleey/wesleey?style=flat-square)](https://github.com/wesleey)
 </div>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"><img src="light_mode.svg"/></picture>](https://github.com/wesleey)
-
 <div align="center">
 <!-- TABLE 1 -->
 <table>
