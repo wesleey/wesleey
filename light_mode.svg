@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="11.9px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="15.9px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -16,62 +16,56 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985" height="530px" fill="#f6f8fa" rx="6"/>
-<text x="20" y="30" fill="#24292f" class="ascii">
-<tspan x="20" y="30">                        mMNM&amp;%w</tspan>
-<tspan x="20" y="50">                  mkMH$MUMFPM,NM#Z%%</tspan>
-<tspan x="20" y="70">              :!.:x )!!X)$MMWWMM$**$$Nx~~`</tspan>
-<tspan x="20" y="90">             !&lt;!*R@@MNR$$$B$WWXXtdn."?XT!:</tspan>
-<tspan x="20" y="110">            :~` tH!~!!MBT5$$$$$$$WRHb!"! !.</tspan>
-<tspan x="20" y="130">             .&lt;.$f &lt;!!HR$$$$$$$$$$$X?`&gt;!)X?~(</tspan>
-<tspan x="20" y="150">            ~-!#@\~/!!!@$$$$$$$$$$$R! `&lt;!M&gt;-!%.</tspan>
-<tspan x="20" y="170">             .!!"X  !XXM$$$$$$$$$$$R!! !X!!i"~ `:</tspan>
-<tspan x="20" y="190">            :!t! &lt;: !?X***$$$$$$$***~!  ?&gt;?X    `</tspan>
-<tspan x="20" y="210">           '  `!~~:  ~x.  !R$$$$* . x   W`   - &gt;</tspan>
-<tspan x="20" y="230">                 ~! ::" `L?X#$F.uC"L" . $      `n</tspan>
-<tspan x="20" y="250">              %   ~&lt;%!.#mT$"&lt;$k"$$Q?:xW "      '</tspan>
-<tspan x="20" y="270">               ~   4BhU@$W$?!$$ "$$WdN"'.</tspan>
-<tspan x="20" y="290">                    R$$$$$$* $$k'$$$$$ !&amp;!x</tspan>
-<tspan x="20" y="310">                    !T$$$$6n'$$$ $$$(T  .?"</tspan>
-<tspan x="20" y="330">                    @!M$$$$ec.")d$$$$!   `.</tspan>
-<tspan x="20" y="350">                    !!8$f"` "   `^T$!~</tspan>
-<tspan x="20" y="370">                    !!R$  :xxox..o:d"</tspan>
-<tspan x="20" y="390">                     " #@!$WN@W$$$~"  \</tspan>
-<tspan x="20" y="410">                        "~R$$$$$$"     N.</tspan>
-<tspan x="20" y="430">             .             "#"""" :X   `Wmu.</tspan>
-<tspan x="20" y="450">        '&lt;:&lt;!!                  .u$M    $!$$$bou.</tspan>
-<tspan x="20" y="470">     .:!!!~!!?         .     :ud$$$!   ~@XR$$$$$$$eu.</tspan>
-<tspan x="20" y="490">    &lt;!!!!RnL`"% ~\    X~ti   `$RM$R~ :`  #W$$$R$$$T$$$c</tspan>
-<tspan x="20" y="510">  &lt;!!!!XX?*&gt; ~    .-`  `% XxU@$R~  ~: . ^*$M"$$B$$$"$!:Mm</tspan>
+<text x="22" y="30" fill="#24292f" class="ascii">
+<tspan x="22" y="30">           mMNM&amp;%w</tspan>
+<tspan x="22" y="50">     mkMH$MUMFPM,NM#Z%%</tspan>
+<tspan x="22" y="70"> :!.:x )!!X)$MMWWMM$**$$Nx~~`</tspan>
+<tspan x="22" y="90">!&lt;!*R@@MNR$$$B$WWXXtdn."?XT!:</tspan>
+<tspan x="22" y="110">~` tH!~!!MBT5$$$$$$$WRHb!"! !.</tspan>
+<tspan x="22" y="130">.&lt;.$f &lt;!!HR$$$$$$$$$$$X?`&gt;!)X?~(</tspan>
+<tspan x="22" y="150">-!#@\~/!!!@$$$$$$$$$$$R! `&lt;!M&gt;-!%.</tspan>
+<tspan x="22" y="170">.!!"X  !XXM$$$$$$$$$$$R!! !X!!i"~ `:</tspan>
+<tspan x="22" y="190">!t! &lt;: !?X***$$$$$$$***~!  ?&gt;?X    `</tspan>
+<tspan x="22" y="210"> `!~~:  ~x.  !R$$$$* . x   W`   - &gt;</tspan>
+<tspan x="22" y="230">    ~! ::" `L?X#$F.uC"L" . $      `n</tspan>
+<tspan x="22" y="250"> %   ~&lt;%!.#mT$"&lt;$k"$$Q?:xW "      '</tspan>
+<tspan x="22" y="270">  ~   4BhU@$W$?!$$ "$$WdN"'.</tspan>
+<tspan x="22" y="290">       R$$$$$$* $$k'$$$$$ !&amp;!x</tspan>
+<tspan x="22" y="310">       !T$$$$6n'$$$ $$$(T  .?"</tspan>
+<tspan x="22" y="330">       @!M$$$$ec.")d$$$$!   `.</tspan>
+<tspan x="22" y="350">       !!8$f"` "   `^T$!~</tspan>
+<tspan x="22" y="370">       !!R$  :xxox..o:d"</tspan>
+<tspan x="22" y="390">        " #@!$WN@W$$$~"  \</tspan>
+<tspan x="22" y="410">           "~R$$$$$$"     N.</tspan>
+<tspan x="22" y="430">.             "#"""" :X   `Wmu.</tspan>
+<tspan x="22" y="450">:&lt;!!                  .u$M    $!$$$</tspan>
+<tspan x="22" y="470">?         .     :ud$$$!   ~@XR$$$$$$</tspan>
+<tspan x="22" y="490">nL`"% ~\    X~ti   `$RM$R~ :`  #W$$$</tspan>
+<tspan x="22" y="510">*&gt; ~    .-`  `% XxU@$R~  ~: . ^*$M"$</tspan>
 </text>
-<text x="480" y="30" fill="#24292f">
-<tspan x="480" y="30">archlinux@wesley</tspan> -———————————————————————————————————————-—-
-<tspan x="480" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Arch Linux x86_64</tspan>
-<tspan x="480" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="480" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Aspire A515-52G V1.14</tspan>
-<tspan x="480" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">6.16.8-arch3-1</tspan>
-<tspan x="480" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">visual-studio-code-bin 1.104.1-1</tspan><tspan x="480" y="150" class="cc">. </tspan>
-<tspan x="480" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">C, C#, Python, JavaScript</tspan>
-<tspan x="480" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="480" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Portuguese, English</tspan>
-<tspan x="480" y="230" class="cc">. </tspan>
-<tspan x="480" y="250" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Shell</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">fish 4.0.8, zsh 5.9, bash 5.3.3</tspan>
-<tspan x="480" y="270" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Manager</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">zellij 0.43.1</tspan>
-<tspan x="480" y="290" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Prompt</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">starship 1.23.0</tspan>
-<tspan x="480" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="480" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">wesley.barbosa@alu.ufc.br</tspan>
-<tspan x="480" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">wesley.barbosa.developer@gmail.com</tspan>
-<tspan x="480" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">wesleybarbosasilva</tspan>
-<tspan x="480" y="410" class="cc">. </tspan><tspan class="key">Country</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Brazil</tspan>
-<tspan x="480" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="480" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">32</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">73</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">90</tspan>
-<tspan x="480" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................ </tspan><tspan class="value" id="commit_data">2,583</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">26</tspan>
-<tspan x="480" y="510" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="loc_data">1,812,390</tspan> ( <tspan class="addColor" id="loc_add">1,861,848</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">49,458</tspan><tspan class="delColor">--</tspan> )
+<text x="392" y="30" fill="#24292f">
+<tspan x="392" y="30">archlinux@wesley</tspan> -———————————————————————————————————————-—-
+<tspan x="392" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Arch Linux x86_64</tspan>
+<tspan x="392" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
+<tspan x="392" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Aspire A515-52G V1.14</tspan>
+<tspan x="392" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">6.16.8-arch3-1</tspan>
+<tspan x="392" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">visual-studio-code-bin 1.104.1-1</tspan>
+<tspan x="392" y="150" class="cc">. </tspan>
+<tspan x="392" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">C, C#, Python, JavaScript</tspan>
+<tspan x="392" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="392" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Portuguese, English</tspan>
+<tspan x="392" y="230" class="cc">. </tspan>
+<tspan x="392" y="250" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Shell</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">fish 4.0.8, zsh 5.9, bash 5.3.3</tspan>
+<tspan x="392" y="270" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Manager</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">zellij 0.43.1</tspan>
+<tspan x="392" y="290" class="cc">. </tspan><tspan class="key">Terminal</tspan>.<tspan class="key">Prompt</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">starship 1.23.0</tspan>
+<tspan x="392" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="392" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">wesley.barbosa@alu.ufc.br</tspan>
+<tspan x="392" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">wesley.barbosa.developer@gmail.com</tspan>
+<tspan x="392" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">wesleybarbosasilva</tspan>
+<tspan x="392" y="410" class="cc">. </tspan><tspan class="key">Country</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Brazil</tspan>
+<tspan x="392" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="392" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">32</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">73</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">90</tspan>
+<tspan x="392" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................ </tspan><tspan class="value" id="commit_data">2,583</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">26</tspan>
+<tspan x="392" y="510" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ...... </tspan><tspan class="value" id="loc_data">1,812,390</tspan> ( <tspan class="addColor" id="loc_add">1,861,848</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">49,458</tspan><tspan class="delColor">--</tspan> )
 </text>
-<g transform="translate(942, 10)">
-  <rect x="0" y="0" width="34" height="35" rx="6" ry="6" fill="#212830" stroke="#3d444d"/>
-  <g transform="translate(9, 9)">
-  <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z" fill="#9198a1"/>
-  <path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z" fill="#9198a1"/>
-  </g>
-</g>
 </svg>
