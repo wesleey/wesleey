@@ -50,9 +50,16 @@
 [![Last Profile Update](https://img.shields.io/github/last-commit/wesleey/wesleey?style=flat-square)](https://github.com/wesleey)
 </div>
 
-```bash
-[root@linux github]# date
-Sat 27 Sep 2025 00:26:52 -0300
+<a href="https://github.com/wesleey/wesleey">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img src="light_mode.svg">
+  </picture>
+</a>
+
+```
+[archlinux@wesley github]# date
+sáb 27 set 2025 02:19:54 -0300
 ```
 <img src="./assets/gifs/rgb.webp" width="100%" height="15" style="max-width:100%;height:15px;" alt="" align="center">
 
@@ -160,10 +167,6 @@ Certificates
 <!-- ROW 2 -->
 <tr>
 <td valign="top">
-<h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
-Most Used Languages
-</h5>
 <table align="center">
 <tbody>
 <tr>
@@ -174,10 +177,6 @@ Most Used Languages
 </td>
 
 <td valign="top">
-<h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
-Statistics
-</h5>
 <table align="center">
 <tbody>
 <tr>
@@ -188,25 +187,6 @@ Statistics
 </td>
 </tr>
 <!-- ROW 2 -->
-
-<!-- ROW 3 -->
-<tr>
-<td colspan="2">
-<h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
-QR Codes
-</h5>
-<table>
-<tbody><tr>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/picpay.svg" width="18" height="18" style="width:18px;height:18px;" alt="" valign="center"> PicPay</h5><img src="./assets/svgs/picpay-QR.svg" width="80" alt=""></td>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/pix.svg" width="13" height="13" style="width:18px;height:18px;" alt="" valign="center"> PIX</h5><img src="./assets/svgs/pix-QR.svg" width="80" alt=""></td>
-<td align="center"><h5 align="center"><img src="./assets/icons/v1/github.svg" width="18" height="18" style="width:18px;height:18px;" alt="" valign="center"> GitHub</h5><img src="./assets/svgs/github-QR.svg" width="80" alt=""></td>
-</tr></tbody>
-</table>
-</br>
-</td>
-</tr>
-<!-- ROW 3 -->
 
 </tbody>
 </table>
