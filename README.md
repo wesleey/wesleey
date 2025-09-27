@@ -20,7 +20,7 @@
 [Postman]: https://www.postman.com/
 [Python]: https://www.python.org/
 [React]: https://pt-br.reactjs.org/
-[Spring Boot]: https://spring.io/
+[Spring]: https://spring.io/
 [SQL Server]: https://www.microsoft.com/en/sql-server/
 [TailwindCSS]: http://tailwindcss.com/
 [TypeScript]: https://www.typescriptlang.org/
@@ -50,18 +50,7 @@
 [![Last Profile Update](https://img.shields.io/github/last-commit/wesleey/wesleey?style=flat-square)](https://github.com/wesleey)
 </div>
 
-<a href="https://github.com/wesleey/wesleey">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img src="light_mode.svg">
-  </picture>
-</a>
-
-```
-[archlinux@wesley github]# date
-sáb 27 set 2025 02:19:54 -0300
-```
-<img src="./assets/gifs/rgb.webp" width="100%" height="15" style="max-width:100%;height:15px;" alt="" align="center">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"><img src="light_mode.svg"/></picture>](https://github.com/wesleey)
 
 <div align="center">
 <!-- TABLE 1 -->
@@ -72,57 +61,53 @@ sáb 27 set 2025 02:19:54 -0300
 <tr>
 <td valign="top">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
+<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
 Technologies
 </h5>
 <table>
 <tbody>
 <tr><td>
 
-[<img align="center" alt="C" width="60" height="60" src="./assets/icons/v2/c.svg" />][C]
-[<img align="center" alt="C#" width="60" height="60" src="./assets/icons/v2/csharp.svg" />][CSharp]
-[<img align="center" alt="Java" width="60" height="60" src="./assets/icons/v2/java.svg" />][Java]
-[<img align="center" alt="Python" width="60" height="60" src="./assets/icons/v2/python.svg" />][Python]
-[<img align="center" alt="JavaScript" width="60" height="60" src="./assets/icons/v2/javascript.svg" />][JavaScript]
-[<img align="center" alt="TypeScript" width="60" height="60" src="./assets/icons/v2/typescript.svg" />][TypeScript]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/c-dark.svg"><img align="center" alt="C" width="45" height="45" src="./technologies/c-light.svg"/></picture>][C]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/csharp-dark.svg"><img align="center" alt="C#" width="45" height="45" src="./technologies/csharp-light.svg"/></picture>][CSharp]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/java-dark.svg"><img align="center" alt="Java" width="45" height="45" src="./technologies/java-light.svg"/></picture>][Java]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/python-dark.svg"><img align="center" alt="Python" width="45" height="45" src="./technologies/python-light.svg"/></picture>][Python]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/javascript-dark.svg"><img align="center" alt="JavaScript" width="45" height="45" src="./technologies/javascript-light.svg"/></picture>][JavaScript]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/typescript-dark.svg"><img align="center" alt="TypeScript" width="45" height="45" src="./technologies/typescript-light.svg"/></picture>][TypeScript]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dotnet-dark.svg"><img align="center" alt=".NET" width="45" height="45" src="./technologies/dotnet-light.svg"/></picture>][.NET]
 </td></tr>
 
 <tr><td>
 
-[<img align="center" alt=".NET" width="60" height="60" src="./assets/icons/v2/dotnetcore.svg" />][.NET]
-[<img align="center" alt="Spring" width="60" height="60" src="./assets/icons/v2/spring.svg" />][Spring Boot]
-[<img align="center" alt="NodeJS" width="60" height="60" src="./assets/icons/v2/node.svg" />][Node]
-[<img align="center" alt="ReactJS" width="60" height="60" src="./assets/icons/v2/react.svg" />][React]
-[<img align="center" alt="Vite" width="60" height="60" src="./assets/icons/v2/vite.svg" />][Vite]
-[<img align="center" alt="NextJS" width="60" height="60" src="./assets/icons/v2/nextjs.svg" />][Next]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/spring-dark.svg"><img align="center" alt="Spring" width="45" height="45" src="./technologies/spring-light.svg"/></picture>][Spring]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/node-dark.svg"><img align="center" alt="NodeJS" width="45" height="45" src="./technologies/node-light.svg"/></picture>][Node]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/react-dark.svg"><img align="center" alt="React" width="45" height="45" src="./technologies/react-light.svg"/></picture>][React]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vite-dark.svg"><img align="center" alt="Vite" width="45" height="45" src="./technologies/vite-light.svg"/></picture>][Vite]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/next-dark.svg"><img align="center" alt="NextJS" width="45" height="45" src="./technologies/next-light.svg"/></picture>][Next]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/html-dark.svg"><img align="center" alt="HTML5" width="45" height="45" src="./technologies/html-light.svg"/></picture>][HTML5]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/css-dark.svg"><img align="center" alt="CSS3" width="45" height="45" src="./technologies/css-light.svg"/></picture>][CSS3]
 </td></tr>
 
 <tr><td>
 
-[<img align="center" alt="HTML5" width="60" height="60" src="./assets/icons/v2/html5.svg" />][HTML5]
-[<img align="center" alt="CSS3" width="60" height="60" src="./assets/icons/v2/css3.svg" />][CSS3]
-[<img align="center" alt="MUI" width="60" height="60" src="./assets/icons/v2/mui.svg" />][MUI]
-[<img align="center" alt="TailwindCSS" width="60" height="60" src="./assets/icons/v2/tailwindcss.svg" />][TailwindCSS]
-[<img align="center" alt="Jest" width="60" height="60" src="./assets/icons/v2/jest.svg" />][Jest]
-[<img align="center" alt="MongoDB" width="60" height="60" src="./assets/icons/v2/mongodb.svg" />][MongoDB]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mui-dark.svg"><img align="center" alt="MUI" width="45" height="45" src="./technologies/mui-light.svg"/></picture>][MUI]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/tailwind-dark.svg"><img align="center" alt="TailwindCSS" width="45" height="45" src="./technologies/tailwind-light.svg"/></picture>][TailwindCSS]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/jest-dark.svg"><img align="center" alt="Jest" width="45" height="45" src="./technologies/jest-light.svg"/></picture>][Jest]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mongodb-dark.svg"><img align="center" alt="MongoDB" width="45" height="45" src="./technologies/mongodb-light.svg"/></picture>][MongoDB]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/sqlserver-dark.svg"><img align="center" alt="SQL Server" width="45" height="45" src="./technologies/sqlserver-light.svg"/></picture>][SQL Server]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postgresql-dark.svg"><img align="center" alt="PostgreSQL" width="45" height="45" src="./technologies/postgresql-light.svg"/></picture>][PostgreSQL]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mysql-dark.svg"><img align="center" alt="MySQL" width="45" height="45" src="./technologies/mysql-light.svg"/></picture>][MySQL]
 </td></tr>
 
 <tr><td>
 
-[<img align="center" alt="SQL Server" width="60" height="60" src="./assets/icons/v2/microsoftsqlserver.svg" />][SQL Server]
-[<img align="center" alt="PostgreSQL" width="60" height="60" src="./assets/icons/v2/postgresql.svg" />][PostgreSQL]
-[<img align="center" alt="MySQL" width="60" height="60" src="./assets/icons/v2/mysql.svg" />][MySQL]
-[<img align="center" alt="Visual Studio Code" width="60" height="60" src="./assets/icons/v2/vscode.svg" />][VSCode]
-[<img align="center" alt="Postman" width="60" height="60" src="./assets/icons/v2/postman.svg" />][Postman]
-[<img align="center" alt="DBeaver" width="60" height="60" src="./assets/icons/v2/dbeaver.svg" />][DBeaver]
-</td></tr>
-
-<tr><td>
-
-[<img align="center" alt="Docker" width="60" height="60" src="./assets/icons/v2/docker.svg" />][Docker]
-[<img align="center" alt="Windows 11" width="60" height="60" src="./assets/icons/v2/windows.svg" />][Windows]
-[<img align="center" alt="Arch Linux" width="60" height="60" src="./assets/icons/v2/archlinux.svg" />][Arch Linux]
-[<img align="center" alt="Linux" width="60" height="60" src="./assets/icons/v2/linux.svg" />][Linux]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vscode-dark.svg"><img align="center" alt="VSCode" width="45" height="45" src="./technologies/vscode-light.svg"/></picture>][VSCode]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postman-dark.svg"><img align="center" alt="Postman" width="45" height="45" src="./technologies/postman-light.svg"/></picture>][Postman]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dbeaver-dark.svg"><img align="center" alt="DBeaver" width="45" height="45" src="./technologies/dbeaver-light.svg"/></picture>][DBeaver]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/docker-dark.svg"><img align="center" alt="Docker" width="45" height="45" src="./technologies/docker-light.svg"/></picture>][Docker]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/windows-dark.svg"><img align="center" alt="Windows" width="45" height="45" src="./technologies/windows-light.svg"/></picture>][Windows]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/arch-dark.svg"><img align="center" alt="Arch Linux" width="45" height="45" src="./technologies/arch-light.svg"/></picture>][Arch Linux]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/linux-dark.svg"><img align="center" alt="Linux" width="45" height="45" src="./technologies/linux-light.svg"/></picture>][Linux]
 </td></tr>
 </tbody>
 </table>
@@ -130,33 +115,33 @@ Technologies
 
 <td valign="top">
 <h5 align="left">
-<img src="./assets/icons/v1/head.svg" width="20" height="20" alt="" valign="bottom">
+<img src="./assets/svgs/head.svg" width="20" height="20" alt="" valign="bottom">
 Certificates
 </h5>
 <table>
 <tbody align="left">
-<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
+<tr><td><a href="https://www.github.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="GitHub" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/github.svg" /> </a> <a href="https://www.credly.com/badges/3200c6b8-1a37-4c9c-b93d-fcdb907d32a4/linked_in_profile" target="_blank" rel="noreferrer noopener">GitHub Foundations</a>
 </td></tr>
 
-<tr><td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Oracle" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/oracle.svg" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353" target="_blank" rel="noreferrer noopener">Cloud Infrastructure 2024 Certified Foundations Associate</a>
+<tr><td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Oracle" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/oracle.svg" /> </a> <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C592D53CDF3FCD630537DDE1E418789733DDA68FEE3DD811B68BB6EC7178353" target="_blank" rel="noreferrer noopener">Cloud Infrastructure 2024 Certified Foundations Associate</a>
 </td></tr>
 
-<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
+<tr><td><a href="https://www.ibm.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="IBM" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/ibm.svg" /> </a> <a href="https://www.credly.com/badges/80fdba37-818b-409b-8f1b-528daf855d4e/linked_in_profile" target="_blank" rel="noreferrer noopener">Docker Essentials: A Developer Introduction</a>
 </td></tr>
 
-<tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" style="width:25px;height:25px;" src="./assets/icons/v1/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
+<tr><td><a href="https://www.nvidia.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="NVIDIA" width="25" height="25" style="width:25px;height:25px;" src="./assets/svgs/nvidia.svg" /> </a> <a href="https://learn.nvidia.com/certificates?id=ZERS6pTjSmCpPsh90LbCkQ" target="_blank" rel="noreferrer noopener">NVIDIA: Fundamentals of Deep Learning</a>
 </td></tr>
 
-<tr><td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Google Cloud" width="20" height="20" style="width:20px;height:20px;" src="./assets/icons/v1/google-cloud.svg" /> </a> <a href="https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noreferrer noopener">Google Cloud: Introduction to Generative AI</a>
+<tr><td><a href="https://cloud.google.com/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Google Cloud" width="20" height="20" style="width:20px;height:20px;" src="./assets/svgs/google-cloud.svg" /> </a> <a href="https://www.cloudskillsboost.google/public_profiles/13ce8c60-5b9e-4ca1-96b8-2a0b9a28bd25/badges/9601795?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank" rel="noreferrer noopener">Google Cloud: Introduction to Generative AI</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7" target="_blank" rel="noreferrer noopener">CS50AI: Introduction to Artificial Intelligence with Python</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://certificates.cs50.io/56308b0f-af7b-4e53-835f-bdf163fa7fa7" target="_blank" rel="noreferrer noopener">CS50AI: Introduction to Artificial Intelligence with Python</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8" target="_blank" rel="noreferrer noopener">CS50P: Introduction to Programming with Python</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/e1238850-d867-4e21-9ae2-4fc0255746e8" target="_blank" rel="noreferrer noopener">CS50P: Introduction to Programming with Python</a>
 </td></tr>
 
-<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/icons/v1/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
+<tr><td><a href="https://www.harvard.edu/" target="_blank" rel="noreferrer noopener"><img align="center" alt="Harvard University" height="20" style="max-width:auto;height:20px;" src="./assets/svgs/harvard.svg" /> </a> <a href="https://cs50.harvard.edu/certificates/75ef015e-97ac-4cd2-aee9-2530f0092f7a" target="_blank" rel="noreferrer noopener">CS50x: Introduction to Computer Science</a>
 </td></tr>
 </tbody>
 </table>
@@ -193,14 +178,14 @@ Certificates
 <!-- TABLE 1 -->
 
 [![Microsoft Learn Badge](https://img.shields.io/badge/-@wesleybarbosa-253655?style=flat-square&logo=microsoft&logoColor=white&link=https://learn.microsoft.com/en-us/users/wesleybarbosa/)][Microsoft Learn]
-[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)][GitLab]
-[![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)][Instagram]
+[![GitLab Badge](https://img.shields.io/badge/-@wesleybarbosa-e24329?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/wesleybarbosa/)][GitLab]
+[![Instagram Badge](https://img.shields.io/badge/-@wesleydeveloper-df234f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleydeveloper/)][Instagram]
 [![X Badge](https://img.shields.io/badge/-@wesleydeveloper-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/wesleydeveloper/)][X]
-[![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)][Discord]
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)][Linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)][Gmail]
-[![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=PicPay)][PicPay]
-[![PIX Badge](https://img.shields.io/badge/support-Wesley%20Barbosa-22262a?logo=pix&style=flat-square&label=PIX)][PIX]
+[![Discord Badge](https://img.shields.io/badge/-@wesleydeveloper-566af6?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/invite/2gu54uG9)][Discord]
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Barbosa-0275b4?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleybarbosasilva/)][Linkedin]
+[![Gmail Badge](https://img.shields.io/badge/-wesley.barbosa.developer@gmail.com-c5221f?style=flat-square&logo=gmail&logoColor=white&link=mailto:wesley.barbosa.developer@gmail.com)][Gmail]
+[![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=picpay)][PicPay]
+![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix)
 <div>
 
-<p>Buy me a coffee ☕</p>
+<b>Buy me a coffee ☕</b>

@@ -34,10 +34,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
-        run: |
-          python today.py
-          chmod +x update_readme.sh
-          sudo ./update_readme.sh
+        run: python today.py
 
       - name: Commit
         run: |-
