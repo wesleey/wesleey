@@ -70,7 +70,7 @@
 <tr>
 <td valign="top">
 <h5 align="left">
-<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
+<img src="./icons/star-dark.svg" valign="center">
 Technologies
 </h5>
 <table>
@@ -124,7 +124,7 @@ Technologies
 
 <td valign="top">
 <h5 align="left">
-<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
+<img src="./icons/link-dark.svg" valign="center">
 Certificates
 </h5>
 <table>
@@ -148,7 +148,7 @@ Certificates
 </table>
 
 <h5 align="left">
-<img src="./assets/svgs/head.svg" width="20" height="20" style="width:20px;height:20px;" alt="" valign="bottom">
+<img src="./icons/people-dark.svg" valign="center">
 Social media
 </h5>
 <table>
