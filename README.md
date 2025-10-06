@@ -201,4 +201,6 @@ Social media
 ![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix)
 <div>
 
-<b>Buy me a coffee.</b> ☕
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img align="center" src="./contributions-light.svg"/></picture>

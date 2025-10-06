@@ -1,0 +1,475 @@
+<svg viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .day { shape-rendering: crispEdges; }
+      .level-0 { fill: #eff2f5; }
+      .level-1 { fill: #aceebb; }
+      .level-2 { fill: #4ac26b; }
+      .level-3 { fill: #2da44e; }
+      .level-4 { fill: #116329; }
+      .month-label { font: 10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+      .day-label { font: 9px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+      .legend-label { font: 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+    </style>
+  </defs>
+
+  <g transform="translate(35, 0)">
+    <!-- Month labels -->
+    <text x="28" y="12" class="month-label">Jan</text>
+    <text x="80" y="12" class="month-label">Feb</text>
+    <text x="145" y="12" class="month-label">Mar</text>
+    <text x="197" y="12" class="month-label">Apr</text>
+    <text x="249" y="12" class="month-label">May</text>
+    <text x="314" y="12" class="month-label">Jun</text>
+    <text x="366" y="12" class="month-label">Jul</text>
+    <text x="418" y="12" class="month-label">Aug</text>
+    <text x="483" y="12" class="month-label">Sep</text>
+    <text x="535" y="12" class="month-label">Oct</text>
+    <text x="600" y="12" class="month-label">Nov</text>
+    <text x="652" y="12" class="month-label">Dec</text>
+
+    <!-- Day labels -->
+    <text x="5" y="32" class="day-label">Mon</text>
+    <text x="5" y="54" class="day-label">Wed</text>
+    <text x="5" y="76" class="day-label">Fri</text>
+
+    <!-- October -->
+    <rect class="day level-1" x="28" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="28" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="28" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="28" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="28" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="28" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="28" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="41" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="41" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="41" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="41" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="41" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="41" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="41" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="54" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="54" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="54" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="54" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="54" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="54" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="54" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="67" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="67" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="67" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="67" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="67" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="67" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="67" y="96" width="10" height="10" rx="2"/>
+
+    <!-- November -->
+    <rect class="day level-0" x="80" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="80" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="80" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="80" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="80" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="80" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="80" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="93" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="93" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="93" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="93" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="93" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="93" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="93" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="106" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="106" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="106" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="106" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="106" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="106" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="106" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="119" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="119" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="119" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="119" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="119" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="119" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="119" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="132" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="132" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="132" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="132" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="132" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="132" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="132" y="96" width="10" height="10" rx="2"/>
+
+    <!-- December -->
+    <rect class="day level-4" x="145" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="145" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="145" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="145" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="145" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="145" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="145" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="158" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="158" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="171" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="171" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="171" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="171" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="171" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="171" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="171" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="184" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="184" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="184" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="184" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="184" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="184" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="184" y="96" width="10" height="10" rx="2"/>
+
+    <!-- January -->
+    <rect class="day level-1" x="197" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="197" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="197" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="197" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="197" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="197" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="197" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="210" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="210" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="210" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="210" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="210" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="210" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="210" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="223" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="223" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="223" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="223" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="223" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="223" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="223" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="236" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="236" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="236" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="236" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="236" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="236" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="236" y="96" width="10" height="10" rx="2"/>
+
+    <!-- February -->
+    <rect class="day level-0" x="249" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="249" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="249" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="249" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="249" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="249" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="249" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="262" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="262" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="275" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="275" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="275" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="275" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="275" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="275" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="275" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="288" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="288" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="288" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="288" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="288" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="288" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="288" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="301" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="301" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="301" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="301" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="301" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="301" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="301" y="96" width="10" height="10" rx="2"/>
+
+    <!-- March -->
+    <rect class="day level-1" x="314" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="314" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="314" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="314" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="314" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="314" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="314" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="327" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="327" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="327" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="327" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="327" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="327" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="327" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="340" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="340" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="340" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="340" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="340" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="340" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="340" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="353" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="353" y="96" width="10" height="10" rx="2"/>
+
+    <!-- April -->
+    <rect class="day level-1" x="366" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="366" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="366" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="366" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="366" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="366" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="366" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="379" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="379" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="379" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="379" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="379" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="379" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="379" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="392" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="392" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="392" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="392" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="392" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="392" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="392" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="405" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="405" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="405" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="405" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="405" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="405" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="405" y="96" width="10" height="10" rx="2"/>
+
+    <!-- May -->
+    <rect class="day level-0" x="418" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="418" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="418" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="418" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="418" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="418" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="418" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="431" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="431" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="444" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="444" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="444" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="444" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="444" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="444" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="444" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="457" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="457" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="457" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="457" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="457" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="457" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="457" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="470" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="470" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="470" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="470" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="470" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="470" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="470" y="96" width="10" height="10" rx="2"/>
+
+    <!-- June -->
+    <rect class="day level-2" x="483" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="483" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="483" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="483" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="483" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="483" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="483" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="496" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="496" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="496" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="496" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="496" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="496" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="496" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="509" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="509" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="509" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="509" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="509" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="509" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="509" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="522" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="522" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="522" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="522" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="522" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="522" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="522" y="96" width="10" height="10" rx="2"/>
+
+    <!-- July -->
+    <rect class="day level-0" x="535" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="535" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="548" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="548" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="548" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="548" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="548" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="548" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="548" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="561" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="561" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="561" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="561" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="561" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="561" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-4" x="561" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="574" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="574" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="574" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="574" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="574" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="574" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="574" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-1" x="587" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="587" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="587" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="587" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="587" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="587" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="587" y="96" width="10" height="10" rx="2"/>
+
+    <!-- August -->
+    <rect class="day level-1" x="600" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="600" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="600" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="600" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="600" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="600" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="600" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-2" x="613" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="613" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="613" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="613" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-3" x="613" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="613" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="613" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="626" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="626" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="639" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="639" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-2" x="639" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="639" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="639" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="639" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="639" y="96" width="10" height="10" rx="2"/>
+
+    <!-- September -->
+    <rect class="day level-0" x="652" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="652" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="652" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="652" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="652" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="652" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="652" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="665" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="665" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="665" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="665" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="665" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="665" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="665" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="678" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="678" y="96" width="10" height="10" rx="2"/>
+
+    <rect class="day level-0" x="691" y="18" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="691" y="31" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="691" y="44" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="691" y="57" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="691" y="70" width="10" height="10" rx="2"/>
+    <rect class="day level-0" x="691" y="83" width="10" height="10" rx="2"/>
+    <rect class="day level-1" x="691" y="96" width="10" height="10" rx="2"/>
+
+    <g transform="translate(-50, 0)">
+      <!-- Legend -->
+      <text x="600" y="128" class="legend-label">Less</text>
+      <rect class="day level-0" x="628" y="118" width="10" height="10" rx="2"/>
+      <rect class="day level-4" x="641" y="118" width="10" height="10" rx="2"/>
+      <rect class="day level-3" x="654" y="118" width="10" height="10" rx="2"/>
+      <rect class="day level-2" x="667" y="118" width="10" height="10" rx="2"/>
+      <rect class="day level-1" x="680" y="118" width="10" height="10" rx="2"/>
+      <text x="694" y="128" class="legend-label">More</text>
+    </g>
+  </g>
+</svg>
