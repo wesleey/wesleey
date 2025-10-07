@@ -193,6 +193,20 @@ Social media
 </tr>
 <!-- ROW 2 -->
 
+<!-- ROW 3 -->
+<tr>
+<td valign="top" colspan="2">
+<table align="center">
+<tbody>
+<tr>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img align="center" src="./contributions-light.svg" width="723" /></picture>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 3 -->
+
 </tbody>
 </table>
 <!-- TABLE 1 -->
@@ -200,5 +214,3 @@ Social media
 [![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=picpay)][PicPay]
 ![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix)
 <div>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img align="center" src="./contributions-light.svg"/></picture>
