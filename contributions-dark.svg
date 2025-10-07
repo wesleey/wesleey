@@ -13,7 +13,7 @@
     </style>
   </defs>
 
-  <g transform="translate(105, 16) scale(0.9)">
+  <g transform="translate(45, 13)">
     <!-- Month labels -->
     <text x="28" y="12" class="month-label">Jan</text>
     <text x="80" y="12" class="month-label">Feb</text>

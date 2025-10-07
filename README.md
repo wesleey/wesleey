@@ -195,11 +195,11 @@ Social media
 
 <!-- ROW 3 -->
 <tr>
-<td valign="top" colspan="2">
-<table align="center">
+<td align="center" valign="top" colspan="2">
+<table>
 <tbody>
 <tr>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img align="center" src="./contributions-light.svg" width="723" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img src="./contributions-light.svg" width="700" /></picture>
 </tr>
 </tbody>
 </table>
