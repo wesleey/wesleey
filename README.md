@@ -199,7 +199,7 @@ Social media
 <table>
 <tbody>
 <tr>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img src="./contributions-light.svg" width="700" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg"><img src="./contributions-light.svg" width="730" /></picture>
 </tr>
 </tbody>
 </table>
