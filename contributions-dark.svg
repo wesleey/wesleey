@@ -29,9 +29,9 @@
     <text x="652" y="12" class="month-label">Dec</text>
 
     <!-- Day labels -->
-    <text x="0" y="40" class="day-label">Mon</text>
-    <text x="0" y="66" class="day-label">Wed</text>
-    <text x="0" y="92" class="day-label">Fri</text>
+    <text x="-1" y="40" class="day-label">Mon</text>
+    <text x="-1" y="66" class="day-label">Wed</text>
+    <text x="-1" y="92" class="day-label">Fri</text>
 
     <!-- October -->
     <rect class="day level-1" x="28" y="18" width="10" height="10" rx="2"/>
