@@ -77,46 +77,46 @@ Technologies
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/c-dark.svg"><img align="center" alt="C" width="45" height="45" src="./technologies/c-light.svg"/></picture>][C]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/csharp-dark.svg"><img align="center" alt="C#" width="45" height="45" src="./technologies/csharp-light.svg"/></picture>][CSharp]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/java-dark.svg"><img align="center" alt="Java" width="45" height="45" src="./technologies/java-light.svg"/></picture>][Java]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/python-dark.svg"><img align="center" alt="Python" width="45" height="45" src="./technologies/python-light.svg"/></picture>][Python]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/javascript-dark.svg"><img align="center" alt="JavaScript" width="45" height="45" src="./technologies/javascript-light.svg"/></picture>][JavaScript]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/typescript-dark.svg"><img align="center" alt="TypeScript" width="45" height="45" src="./technologies/typescript-light.svg"/></picture>][TypeScript]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dotnet-dark.svg"><img align="center" alt=".NET" width="45" height="45" src="./technologies/dotnet-light.svg"/></picture>][.NET]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/c-dark.svg"><img align="center" alt="C" width="48" height="48" src="./technologies/c-light.svg"/></picture>][C]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/csharp-dark.svg"><img align="center" alt="C#" width="48" height="48" src="./technologies/csharp-light.svg"/></picture>][CSharp]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/java-dark.svg"><img align="center" alt="Java" width="48" height="48" src="./technologies/java-light.svg"/></picture>][Java]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/python-dark.svg"><img align="center" alt="Python" width="48" height="48" src="./technologies/python-light.svg"/></picture>][Python]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/javascript-dark.svg"><img align="center" alt="JavaScript" width="48" height="48" src="./technologies/javascript-light.svg"/></picture>][JavaScript]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/typescript-dark.svg"><img align="center" alt="TypeScript" width="48" height="48" src="./technologies/typescript-light.svg"/></picture>][TypeScript]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dotnet-dark.svg"><img align="center" alt=".NET" width="48" height="48" src="./technologies/dotnet-light.svg"/></picture>][.NET]
 </td></tr>
 
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/spring-dark.svg"><img align="center" alt="Spring" width="45" height="45" src="./technologies/spring-light.svg"/></picture>][Spring]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/node-dark.svg"><img align="center" alt="NodeJS" width="45" height="45" src="./technologies/node-light.svg"/></picture>][Node]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/react-dark.svg"><img align="center" alt="React" width="45" height="45" src="./technologies/react-light.svg"/></picture>][React]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vite-dark.svg"><img align="center" alt="Vite" width="45" height="45" src="./technologies/vite-light.svg"/></picture>][Vite]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/next-dark.svg"><img align="center" alt="NextJS" width="45" height="45" src="./technologies/next-light.svg"/></picture>][Next]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/html-dark.svg"><img align="center" alt="HTML5" width="45" height="45" src="./technologies/html-light.svg"/></picture>][HTML5]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/css-dark.svg"><img align="center" alt="CSS3" width="45" height="45" src="./technologies/css-light.svg"/></picture>][CSS3]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/spring-dark.svg"><img align="center" alt="Spring" width="48" height="48" src="./technologies/spring-light.svg"/></picture>][Spring]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/node-dark.svg"><img align="center" alt="NodeJS" width="48" height="48" src="./technologies/node-light.svg"/></picture>][Node]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/react-dark.svg"><img align="center" alt="React" width="48" height="48" src="./technologies/react-light.svg"/></picture>][React]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vite-dark.svg"><img align="center" alt="Vite" width="48" height="48" src="./technologies/vite-light.svg"/></picture>][Vite]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/next-dark.svg"><img align="center" alt="NextJS" width="48" height="48" src="./technologies/next-light.svg"/></picture>][Next]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/html-dark.svg"><img align="center" alt="HTML5" width="48" height="48" src="./technologies/html-light.svg"/></picture>][HTML5]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/css-dark.svg"><img align="center" alt="CSS3" width="48" height="48" src="./technologies/css-light.svg"/></picture>][CSS3]
 </td></tr>
 
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mui-dark.svg"><img align="center" alt="MUI" width="45" height="45" src="./technologies/mui-light.svg"/></picture>][MUI]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/tailwind-dark.svg"><img align="center" alt="TailwindCSS" width="45" height="45" src="./technologies/tailwind-light.svg"/></picture>][TailwindCSS]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/jest-dark.svg"><img align="center" alt="Jest" width="45" height="45" src="./technologies/jest-light.svg"/></picture>][Jest]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mongodb-dark.svg"><img align="center" alt="MongoDB" width="45" height="45" src="./technologies/mongodb-light.svg"/></picture>][MongoDB]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/sqlserver-dark.svg"><img align="center" alt="SQL Server" width="45" height="45" src="./technologies/sqlserver-light.svg"/></picture>][SQL Server]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postgresql-dark.svg"><img align="center" alt="PostgreSQL" width="45" height="45" src="./technologies/postgresql-light.svg"/></picture>][PostgreSQL]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mysql-dark.svg"><img align="center" alt="MySQL" width="45" height="45" src="./technologies/mysql-light.svg"/></picture>][MySQL]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mui-dark.svg"><img align="center" alt="MUI" width="48" height="48" src="./technologies/mui-light.svg"/></picture>][MUI]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/tailwind-dark.svg"><img align="center" alt="TailwindCSS" width="48" height="48" src="./technologies/tailwind-light.svg"/></picture>][TailwindCSS]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/jest-dark.svg"><img align="center" alt="Jest" width="48" height="48" src="./technologies/jest-light.svg"/></picture>][Jest]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mongodb-dark.svg"><img align="center" alt="MongoDB" width="48" height="48" src="./technologies/mongodb-light.svg"/></picture>][MongoDB]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/sqlserver-dark.svg"><img align="center" alt="SQL Server" width="48" height="48" src="./technologies/sqlserver-light.svg"/></picture>][SQL Server]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postgresql-dark.svg"><img align="center" alt="PostgreSQL" width="48" height="48" src="./technologies/postgresql-light.svg"/></picture>][PostgreSQL]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/mysql-dark.svg"><img align="center" alt="MySQL" width="48" height="48" src="./technologies/mysql-light.svg"/></picture>][MySQL]
 </td></tr>
 
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vscode-dark.svg"><img align="center" alt="VSCode" width="45" height="45" src="./technologies/vscode-light.svg"/></picture>][VSCode]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postman-dark.svg"><img align="center" alt="Postman" width="45" height="45" src="./technologies/postman-light.svg"/></picture>][Postman]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dbeaver-dark.svg"><img align="center" alt="DBeaver" width="45" height="45" src="./technologies/dbeaver-light.svg"/></picture>][DBeaver]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/docker-dark.svg"><img align="center" alt="Docker" width="45" height="45" src="./technologies/docker-light.svg"/></picture>][Docker]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/windows-dark.svg"><img align="center" alt="Windows" width="45" height="45" src="./technologies/windows-light.svg"/></picture>][Windows]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/arch-dark.svg"><img align="center" alt="Arch Linux" width="45" height="45" src="./technologies/arch-light.svg"/></picture>][Arch Linux]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/linux-dark.svg"><img align="center" alt="Linux" width="45" height="45" src="./technologies/linux-light.svg"/></picture>][Linux]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/vscode-dark.svg"><img align="center" alt="VSCode" width="48" height="48" src="./technologies/vscode-light.svg"/></picture>][VSCode]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/postman-dark.svg"><img align="center" alt="Postman" width="48" height="48" src="./technologies/postman-light.svg"/></picture>][Postman]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/dbeaver-dark.svg"><img align="center" alt="DBeaver" width="48" height="48" src="./technologies/dbeaver-light.svg"/></picture>][DBeaver]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/docker-dark.svg"><img align="center" alt="Docker" width="48" height="48" src="./technologies/docker-light.svg"/></picture>][Docker]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/windows-dark.svg"><img align="center" alt="Windows" width="48" height="48" src="./technologies/windows-light.svg"/></picture>][Windows]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/arch-dark.svg"><img align="center" alt="Arch Linux" width="48" height="48" src="./technologies/arch-light.svg"/></picture>][Arch Linux]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./technologies/linux-dark.svg"><img align="center" alt="Linux" width="48" height="48" src="./technologies/linux-light.svg"/></picture>][Linux]
 </td></tr>
 </tbody>
 </table>
@@ -131,18 +131,18 @@ Certificates
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/github-dark.svg"><img align="center" alt="GitHub" width="45" height="45" src="./certificates/github-light.svg"/></picture>][GitHub Foundations]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/ibm-dark.svg"><img align="center" alt="IBM" width="45" height="45" src="./certificates/ibm-light.svg"/></picture>][IBM Docker]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/nvidia-dark.svg"><img align="center" alt="NVIDIA" width="45" height="45" src="./certificates/nvidia-light.svg"/></picture>][NVIDIA Deep Learning]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50x]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50P]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="45" height="45" src="./certificates/harvard-light.svg"/></picture>][CS50AI]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/oracle-dark.svg"><img align="center" alt="Oracle" width="45" height="45" src="./certificates/oracle-light.svg"/></picture>][Oracle 2024]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/github-dark.svg"><img align="center" alt="GitHub" width="48" height="48" src="./certificates/github-light.svg"/></picture>][GitHub Foundations]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/ibm-dark.svg"><img align="center" alt="IBM" width="48" height="48" src="./certificates/ibm-light.svg"/></picture>][IBM Docker]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/nvidia-dark.svg"><img align="center" alt="NVIDIA" width="48" height="48" src="./certificates/nvidia-light.svg"/></picture>][NVIDIA Deep Learning]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="48" height="48" src="./certificates/harvard-light.svg"/></picture>][CS50x]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="48" height="48" src="./certificates/harvard-light.svg"/></picture>][CS50P]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/harvard-dark.svg"><img align="center" alt="Harvard" width="48" height="48" src="./certificates/harvard-light.svg"/></picture>][CS50AI]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/oracle-dark.svg"><img align="center" alt="Oracle" width="48" height="48" src="./certificates/oracle-light.svg"/></picture>][Oracle 2024]
 </td></tr>
 
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/google-cloud-dark.svg"><img align="center" alt="Google Cloud" width="45" height="45" src="./certificates/google-cloud-light.svg"/></picture>][Google Cloud Generative AI]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./certificates/google-cloud-dark.svg"><img align="center" alt="Google Cloud" width="48" height="48" src="./certificates/google-cloud-light.svg"/></picture>][Google Cloud Generative AI]
 </td></tr>
 </tbody>
 </table>
@@ -155,13 +155,13 @@ Social media
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gmail-dark.svg"><img align="center" alt="Gmail" width="45" height="45" src="./contacts/gmail-light.svg"/></picture>][Gmail]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/linkedin-dark.svg"><img align="center" alt="LinkedIn" width="45" height="45" src="./contacts/linkedin-light.svg"/></picture>][LinkedIn]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/microsoft-learn-dark.svg"><img align="center" alt="Microsoft Learn" width="45" height="45" src="./contacts/microsoft-learn-light.svg"/></picture>][Microsoft Learn]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gitlab-dark.svg"><img align="center" alt="GitLab" width="45" height="45" src="./contacts/gitlab-light.svg"/></picture>][GitLab]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/instagram-dark.svg"><img align="center" alt="Instagram" width="45" height="45" src="./contacts/instagram-light.svg"/></picture>][Instagram]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/x-dark.svg"><img align="center" alt="X" width="45" height="45" src="./contacts/x-light.svg"/></picture>][X]
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/discord-dark.svg"><img align="center" alt="Discord" width="45" height="45" src="./contacts/discord-light.svg"/></picture>][Discord]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gmail-dark.svg"><img align="center" alt="Gmail" width="48" height="48" src="./contacts/gmail-light.svg"/></picture>][Gmail]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/linkedin-dark.svg"><img align="center" alt="LinkedIn" width="48" height="48" src="./contacts/linkedin-light.svg"/></picture>][LinkedIn]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/microsoft-learn-dark.svg"><img align="center" alt="Microsoft Learn" width="48" height="48" src="./contacts/microsoft-learn-light.svg"/></picture>][Microsoft Learn]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/gitlab-dark.svg"><img align="center" alt="GitLab" width="48" height="48" src="./contacts/gitlab-light.svg"/></picture>][GitLab]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/instagram-dark.svg"><img align="center" alt="Instagram" width="48" height="48" src="./contacts/instagram-light.svg"/></picture>][Instagram]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/x-dark.svg"><img align="center" alt="X" width="48" height="48" src="./contacts/x-light.svg"/></picture>][X]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./contacts/discord-dark.svg"><img align="center" alt="Discord" width="48" height="48" src="./contacts/discord-light.svg"/></picture>][Discord]
 </td></tr>
 </tbody>
 </table>
@@ -205,7 +205,7 @@ Social media
 <tr><td>
 <div align="center">
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/nest-clean-architecture)
 </div>
 </td></tr>
 </tbody>
