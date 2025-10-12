@@ -229,10 +229,8 @@ Social media
 <table align="center" valign="center">
 <tbody>
 <tr><td>
-<div align="center">
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="115" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
-</div>
 </td></tr>
 </tbody>
 </table>
