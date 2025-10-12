@@ -175,7 +175,9 @@ Social media
 <table align="center">
 <tbody>
 <tr>
-<div align="center"><img width="245em" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleey&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true"></div>
+<div align="center">
+<img width="245" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleey&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true">
+</div>
 </tr>
 </tbody>
 </table>
@@ -185,7 +187,9 @@ Social media
 <table align="center">
 <tbody>
 <tr>
-<div align="center"><img width="320em" src="https://github-readme-stats.vercel.app/api?username=wesleey&show_icons=true&card_width=320&theme=transparent&hide_border=true"></div>
+<div align="center">
+<img width="320" src="https://github-readme-stats.vercel.app/api?username=wesleey&show_icons=true&card_width=320&theme=transparent&hide_border=true">
+</div>
 </tr>
 </tbody>
 </table>
@@ -194,6 +198,36 @@ Social media
 <!-- ROW 2 -->
 
 <!-- ROW 3 -->
+<tr>
+<td valign="top">
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+<div align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/nest-clean-architecture)
+</div>
+</td></tr>
+</tbody>
+</table>
+</td>
+
+<td valign="top">
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+<div align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/python-clean-architecture)
+</div>
+</td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 3 -->
+
+<!-- ROW 4 -->
 <tr>
 <td align="center" valign="top" colspan="2">
 <table>
@@ -205,8 +239,7 @@ Social media
 </table>
 </td>
 </tr>
-<!-- ROW 3 -->
-
+<!-- ROW 4 -->
 </tbody>
 </table>
 <!-- TABLE 1 -->
