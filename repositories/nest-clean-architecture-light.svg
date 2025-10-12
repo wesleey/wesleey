@@ -4,7 +4,7 @@
     .description { font: 400 12px 'Segoe UI', sans-serif; fill: #59636e; }
     .gray { font: 400 12px 'Segoe UI', sans-serif; fill: #59636e; }
     .icon { fill: #59636e; }
-    .language { fill: #3572a5; }
+    .language { fill: #3178c6; }
   </style>
 
   <rect x="0.5" y="0.5" rx="4.5" height="99%" width="99%" fill="transparent" />

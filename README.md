@@ -205,7 +205,7 @@ Social media
 <tr><td>
 <div align="center">
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/nest-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
 </div>
 </td></tr>
 </tbody>
@@ -229,6 +229,36 @@ Social media
 
 <!-- ROW 4 -->
 <tr>
+<td valign="top">
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+<div align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
+</div>
+</td></tr>
+</tbody>
+</table>
+</td>
+
+<td valign="top">
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+<div align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" width="345" /></picture>](https://github.com/wesleey/spring-clean-architecture)
+</div>
+</td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 4 -->
+
+<!-- ROW 5 -->
+<tr>
 <td align="center" valign="top" colspan="2">
 <table>
 <tbody>
@@ -239,7 +269,7 @@ Social media
 </table>
 </td>
 </tr>
-<!-- ROW 4 -->
+<!-- ROW 5 -->
 </tbody>
 </table>
 <!-- TABLE 1 -->
