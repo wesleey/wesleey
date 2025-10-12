@@ -52,14 +52,14 @@
 [PicPay]: https://picpay.me/wesley3g
 [PIX]: https://raw.githubusercontent.com/wesleey/wesleey/main/pix
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/wesleey?style=flat-square)](https://github.com/wesleey?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wesleey?affiliations=OWNER&style=flat-square)](https://github.com/wesleey?tab=stars)
 [![Public Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/wesleey&style=flat-square)](https://github.com/wesleey?tab=repositories)
 [![Public Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=gists&query=public_gists&url=https://api.github.com/users/wesleey&style=flat-square)](https://gist.github.com/wesleey)
 [![Last Profile Update](https://img.shields.io/github/last-commit/wesleey/wesleey?style=flat-square)](https://github.com/wesleey)
-</div>
+</div> -->
 
 <div align="center">
 <!-- TABLE 1 -->
@@ -266,6 +266,6 @@ Social media
 </table>
 <!-- TABLE 1 -->
 
-[![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=picpay)][PicPay]
-![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix)
+<!-- [![PicPay Badge](https://img.shields.io/badge/support-@wesley3g-22262a?logo=picpay&style=flat-square&label=picpay)][PicPay]
+![PIX Badge](https://img.shields.io/badge/support-wesley.barbosa.developer@gmail.com-22262a?logo=pix&style=flat-square&label=pix) -->
 <div>
