@@ -203,10 +203,8 @@ Social media
 <table align="center" valign="center">
 <tbody>
 <tr><td>
-<div align="center">
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/nest-clean-architecture)
-</div>
 </td></tr>
 </tbody>
 </table>
@@ -216,10 +214,8 @@ Social media
 <table align="center" valign="center">
 <tbody>
 <tr><td>
-<div align="center">
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/python-clean-architecture)
-</div>
 </td></tr>
 </tbody>
 </table>
@@ -246,10 +242,8 @@ Social media
 <table align="center" valign="center">
 <tbody>
 <tr><td>
-<div align="center">
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/spring-clean-architecture)
-</div>
 </td></tr>
 </tbody>
 </table>
