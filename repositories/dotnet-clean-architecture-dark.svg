@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="125" viewBox="0 0 440 125">
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="125" viewBox="0 0 445 125">
   <style>
-    .header { font: 600 14px 'Segoe UI', sans-serif; fill: #3178c6; }
-    .description { font: 400 12px 'Segoe UI', sans-serif; fill: #9198a1; }
-    .gray { font: 400 12px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .header { font: 600 17px 'Segoe UI', sans-serif; fill: #4493f8; }
+    .description { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .gray { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
     .icon { fill: #9198a1; }
     .language { fill: #178600; }
   </style>
@@ -10,23 +10,23 @@
   <rect x="0.5" y="0.5" rx="4.5" height="99%" width="99%" fill="transparent" />
 
   <!-- Book -->
-  <path class="icon" transform="translate(16, 22)" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" />
+  <path class="icon" transform="translate(0, 22) scale(1.1)" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" />
 
-  <text x="38" y="35" class="header">dotnet-clean-architecture</text>
+  <text x="24" y="35" class="header">dotnet-clean-architecture</text>
 
-  <text class="description" x="16" y="45">
-    <tspan x="16" dy="1.2em">Clean Architecture with Python using SQLAlchemy, PostgreSQL and Flask.</tspan>
+  <text class="description" x="0" y="53">
+    <tspan x="0" dy="1.2em">ASP.NET Web API - Clean Architecture.</tspan>
   </text>
 
   <!-- Language -->
-  <circle cx="24" cy="95" r="6" class="language" />
-  <text class="gray" x="38" y="100">C#</text>
+  <circle cx="8" cy="115" r="8" class="language" />
+  <text class="gray" x="24" y="120">C#</text>
 
   <!-- Stars -->
-  <!-- <path class="icon" transform="translate(109, 88)" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" />
-  <text class="gray" x="129" y="100">15</text> -->
+  <!-- <path class="icon" transform="translate(115, 107)" fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" />
+  <text class="gray" x="135" y="120">61</text> -->
 
   <!-- Forks -->
-  <!-- <path class="icon" transform="translate(156, 88)" fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
-  <text class="gray" x="176" y="100">3</text> -->
+  <!-- <path class="icon" transform="translate(180, 107)" fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
+  <text class="gray" x="200" y="120">9</text> -->
 </svg>
