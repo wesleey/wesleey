@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="445" height="140" viewBox="0 0 445 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="130" viewBox="0 0 445 130">
   <style>
     .header { font: 600 17px 'Segoe UI', sans-serif; fill: #4493f8; }
     .description { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
@@ -20,7 +20,7 @@
   </text>
 
   <!-- Language -->
-  <circle cx="8" cy="113" r="8" class="language" />
+  <circle cx="8" cy="114" r="8" class="language" />
   <text class="gray" x="20" y="120">TypeScript</text>
 
   <!-- Stars -->
