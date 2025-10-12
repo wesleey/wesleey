@@ -204,7 +204,7 @@ Social media
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/nest-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="115" /></picture>](https://github.com/wesleey/nest-clean-architecture)
 </td></tr>
 </tbody>
 </table>
@@ -215,7 +215,7 @@ Social media
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/python-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" height="115" /></picture>](https://github.com/wesleey/python-clean-architecture)
 </td></tr>
 </tbody>
 </table>
@@ -231,7 +231,7 @@ Social media
 <tr><td>
 <div align="center">
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="115" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
 </div>
 </td></tr>
 </tbody>
@@ -243,7 +243,7 @@ Social media
 <tbody>
 <tr><td>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" height="100" /></picture>](https://github.com/wesleey/spring-clean-architecture)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" height="115" /></picture>](https://github.com/wesleey/spring-clean-architecture)
 </td></tr>
 </tbody>
 </table>
