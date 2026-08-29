@@ -170,7 +170,7 @@ Social media
 <!-- ROW 1 -->
 
 <!-- ROW 2 -->
-<tr>
+<!--<tr>
 <td valign="top">
 <table align="center">
 <tbody>
@@ -194,7 +194,7 @@ Social media
 </tbody>
 </table>
 </td>
-</tr>
+</tr>-->
 <!-- ROW 2 -->
 
 <!-- ROW 3 -->
@@ -250,7 +250,7 @@ Social media
 <!-- ROW 4 -->
 
 <!-- ROW 5 -->
-<tr>
+<!--<tr>
 <td align="center" valign="top" colspan="2">
 <table>
 <tbody>
@@ -260,7 +260,7 @@ Social media
 </tbody>
 </table>
 </td>
-</tr>
+</tr>-->
 <!-- ROW 5 -->
 </tbody>
 </table>
