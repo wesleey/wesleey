@@ -17,7 +17,7 @@
   <text x="26" y="35" class="header">nest-clean-architecture</text>
 
   <!-- Badge -->
-  <rect x="224.32" y="19" width="58" height="20" rx="10" fill="none" stroke="#3d444d" stroke-width="1" />
+  <rect x="224.32" y="18" width="58" height="21" rx="10" fill="none" stroke="#3d444d" stroke-width="1" />
   <text x="253.32" y="34" text-anchor="middle" class="badge">Public</text>
 
   <!-- Description -->
