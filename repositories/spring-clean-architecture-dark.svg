@@ -17,7 +17,7 @@
   <text x="26" y="35" class="header">spring-clean-architecture</text>
 
   <!-- Badge -->
-  <rect x="240" y="17" width="58" height="24" rx="10" fill="none" stroke="#3d444d" stroke-width="1" />
+  <rect x="240" y="17" width="58" height="23.5" rx="10" fill="none" stroke="#3d444d" stroke-width="1" />
   <text x="269" y="34" text-anchor="middle" class="badge">Public</text>
 
   <!-- Description -->

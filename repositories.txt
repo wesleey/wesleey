@@ -1,0 +1,4 @@
+https://github.com/wesleey/nest-clean-architecture
+https://github.com/wesleey/python-clean-architecture
+https://github.com/wesleey/dotnet-clean-architecture
+https://github.com/wesleey/spring-clean-architecture
