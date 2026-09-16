@@ -1,8 +1,8 @@
 <svg viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
   <!-- Header -->
   <text x="10" y="24" font-weight="600" font-size="12" fill="#1f2328">
-    January
-    <tspan font-weight="600" fill="#59636e">2020</tspan>
+    March
+    <tspan font-weight="600" fill="#59636e">2023</tspan>
   </text>
 
   <!-- Divide -->
@@ -16,8 +16,8 @@
   </g>
 
   <!-- Title -->
-  <text x="52" y="81" font-size="16" fill="#1f2328">Instituto Federal de Educação, Ciência e Tecnologia do Ceará</text>
+  <text x="52" y="81" font-size="16" fill="#1f2328">Universidade Federal do Ceará</text>
 
   <!-- Description -->
-  <text x="52" y="106" font-size="14" fill="#59636e">High School Diploma · Jan 2020 – Dec 2022</text>
+  <text x="52" y="106" font-size="14" fill="#59636e">Bachelor's degree, Computer Science · Mar 2023 – Dec 2026</text>
 </svg>

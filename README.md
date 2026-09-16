@@ -277,6 +277,9 @@ Activities
 <!-- ROW 6 -->
 <tr>
 <td align="center" valign="top" colspan="2">
+<h5 align="left">
+2,433 contributions in 2024
+</h5>
 <table>
 <tbody>
 <tr>
