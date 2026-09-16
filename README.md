@@ -200,6 +200,10 @@ Social media
 <!-- ROW 3 -->
 <tr>
 <td valign="top">
+<h5 align="left">
+<img src="./icons/book-dark.svg" valign="bottom">
+Repositories
+</h5>
 <table align="center" valign="center">
 <tbody>
 <tr><td>
@@ -211,6 +215,9 @@ Social media
 </td>
 
 <td valign="top">
+<h5 align="left">
+<img src="./icons/background.svg" valign="bottom">
+</h5>
 <table align="center" valign="center">
 <tbody>
 <tr><td>
