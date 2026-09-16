@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="445" height="130" viewBox="0 0 445 130">
   <style>
     .header { font: 600 17px 'Segoe UI', sans-serif; fill: #4493f8; }
-    .description { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
-    .gray { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .description { font: 400 15px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .gray { font: 400 15px 'Segoe UI', sans-serif; fill: #9198a1; }
     .icon { fill: #9198a1; }
     .language { fill: #3572a5; }
   </style>
@@ -15,7 +15,7 @@
   <text x="26" y="35" class="header">python-clean-architecture</text>
 
   <text class="description" x="0" y="50">
-    <tspan x="0" dy="1.2em">Clean Architecture with Python using SQLAlchemy, PostgreSQL and.</tspan>
+    <tspan x="0" dy="1.2em">Clean Architecture with Python using SQLAlchemy, PostgreSQL and</tspan>
     <tspan x="0" dy="1.2em">Flask.</tspan>
   </text>
 

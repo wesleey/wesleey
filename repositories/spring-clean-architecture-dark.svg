@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="445" height="130" viewBox="0 0 445 130">
   <style>
     .header { font: 600 17px 'Segoe UI', sans-serif; fill: #4493f8; }
-    .description { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
-    .gray { font: 400 14px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .description { font: 400 15px 'Segoe UI', sans-serif; fill: #9198a1; }
+    .gray { font: 400 15px 'Segoe UI', sans-serif; fill: #9198a1; }
     .icon { fill: #9198a1; }
     .language { fill: #b07219; }
   </style>
