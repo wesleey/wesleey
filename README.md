@@ -258,6 +258,24 @@ Repositories
 
 <!-- ROW 5 -->
 <tr>
+<td valign="top" colspan="2">
+<h5 align="left">
+<img src="./icons/organization.svg" valign="bottom">
+Activities
+</h5>
+<table align="center" valign="center">
+<tbody>
+<tr>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./activities/ifce-dark.svg"><img src="./activities/ifce-light.svg" width="730" /></picture>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 5 -->
+
+<!-- ROW 6 -->
+<tr>
 <td align="center" valign="top" colspan="2">
 <table>
 <tbody>
@@ -268,7 +286,7 @@ Repositories
 </table>
 </td>
 </tr>
-<!-- ROW 5 -->
+<!-- ROW 6 -->
 </tbody>
 </table>
 <!-- TABLE 1 -->
