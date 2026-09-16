@@ -10,7 +10,7 @@
     }
   </style>
 
-  <rect width="200" height="200" rx="20" ry="20" fill="#ffffff1a" stroke="#ffffff26" stroke-width="2" />
+  <rect width="200" height="200" rx="20" ry="20" fill="#ffffff1a" />
 
   <!-- logo -->
   <g transform="translate(35, 13) scale(1)">
