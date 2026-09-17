@@ -67,7 +67,7 @@
 <tbody>
 
 <!-- ROW 1 -->
-<tr>
+<tr align="center">
 <td valign="top">
 <h5 align="left">
 <img src="./icons/star-dark.svg" valign="bottom">
@@ -197,66 +197,7 @@ Social media
 </tr>-->
 <!-- ROW 2 -->
 
-<!-- ROW 3 -->
-<tr>
-<td valign="top">
-<h5 align="left">
-<img src="./icons/book-dark.svg" valign="bottom">
-Repositories
-</h5>
-<table align="center" valign="center">
-<tbody>
-<tr><td>
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/nest-clean-architecture)
-</td></tr>
-</tbody>
-</table>
-</td>
-
-<td valign="top">
-<h5 align="left">
-<img src="./icons/background.svg" valign="bottom">
-</h5>
-<table align="center" valign="center">
-<tbody>
-<tr><td>
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/python-clean-architecture)
-</td></tr>
-</tbody>
-</table>
-</td>
-</tr>
-<!-- ROW 3 -->
-
-<!-- ROW 4 -->
-<tr>
-<td valign="top">
-<table align="center" valign="center">
-<tbody>
-<tr><td>
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
-</td></tr>
-</tbody>
-</table>
-</td>
-
-<td valign="top">
-<table align="center" valign="center">
-<tbody>
-<tr><td>
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/spring-clean-architecture)
-</td></tr>
-</tbody>
-</table>
-</td>
-</tr>
-<!-- ROW 4 -->
-
-<!-- ROW 5 -->
+<!-- ROW 2 -->
 <tr>
 <td valign="top" colspan="2">
 <h5 align="left">
@@ -275,10 +216,59 @@ Activities
 </table>
 </td>
 </tr>
-<!-- ROW 5 -->
+<!-- ROW 2 -->
 
-<!-- ROW 6 -->
+<!-- ROW 3 -->
 <tr>
+<td valign="top">
+<h5 align="left">
+<img src="./icons/book-dark.svg" valign="bottom">
+Repositories
+</h5>
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/nest-clean-architecture-dark.svg"><img src="./repositories/nest-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/nest-clean-architecture)
+</td></tr>
+</tbody>
+</table>
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/dotnet-clean-architecture-dark.svg"><img src="./repositories/dotnet-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/dotnet-clean-architecture)
+</td></tr>
+</tbody>
+</table>
+</td>
+
+<td valign="top">
+<h5 align="left">
+<img src="./icons/background.svg" valign="bottom">
+</h5>
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/python-clean-architecture-dark.svg"><img src="./repositories/python-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/python-clean-architecture)
+</td></tr>
+</tbody>
+</table>
+<table align="center" valign="center">
+<tbody>
+<tr><td>
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="./repositories/spring-clean-architecture-dark.svg"><img src="./repositories/spring-clean-architecture-light.svg" height="105" /></picture>](https://github.com/wesleey/spring-clean-architecture)
+</td></tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- ROW 3 -->
+
+<!-- ROW 4 -->
+<!-- <tr>
 <td align="center" valign="top" colspan="2">
 <h5 align="left">
 2,433 contributions in 2024
@@ -291,8 +281,8 @@ Activities
 </tbody>
 </table>
 </td>
-</tr>
-<!-- ROW 6 -->
+</tr> -->
+<!-- ROW 4 -->
 </tbody>
 </table>
 <!-- TABLE 1 -->
