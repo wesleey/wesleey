@@ -207,10 +207,10 @@ Activities
 <table align="center" valign="center">
 <tbody>
 <tr>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./activities/ufc-dark.svg"><img src="./activities/ufc-light.svg" width="800" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./activities/ufc-dark.svg"><img src="./activities/ufc-light.svg" width="810" /></picture>
 </tr>
 <tr>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./activities/ifce-dark.svg"><img src="./activities/ifce-light.svg" width="800" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./activities/ifce-dark.svg"><img src="./activities/ifce-light.svg" width="810" /></picture>
 </tr>
 </tbody>
 </table>
